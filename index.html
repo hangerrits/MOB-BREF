@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EU BAT/RIE Compliance Verification</title>
+    <link rel="stylesheet" href="{{ url_for("static", filename="css/style.css") }}">
+</head>
+<body>
+    <header>
+        <h1>EU BAT/RIE Compliance Verification System</h1>
+    </header>
+
+    <main>
+        <section id="upload-section">
+            <h2>Upload Documents</h2>
+            <form id="upload-form" enctype="multipart/form-data">
+                <div>
+                    <label for="permit-file">Upload Permit Document (PDF):</label>
+                    <input type="file" id="permit-file" name="permit_file" accept=".pdf" required>
+                </div>
+                <div>
+                    <label for="bref-files">Upload BREF Document(s) (PDF):</label>
+                    <input type="file" id="bref-files" name="bref_files" accept=".pdf" multiple>
+                </div>
+                <button type="submit">Start Verification</button>
+            </form>
+        </section>
+
+        <section id="results-section">
+            <h2>Verification Results</h2>
+            <div id="status-messages"></div>
+            <div id="report-links"></div>
+            <pre id="json-results"></pre>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Manus AI Solutions</p>
+    </footer>
+
+    <script src="{{ url_for("static", filename="js/main.js") }}"></script>
+</body>
+</html>

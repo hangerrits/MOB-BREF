@@ -1,0 +1,191 @@
+[
+  {
+    "bat_id": "BAT 1",
+    "title": "Energy Efficiency Management System (ENEMS)",
+    "text": "Energy Efficiency \n271 \nThe first step is an action programme based on an Energy Efficiency Management System \n(ENEMS), referred to in Section 4.2.1. This may be dealt with (i) by an EMS referred to in the \nvertical sector BREF, (ii) such an EMS can be amended or (iii) the EMS can be supplemented ",
+    "page": 302,
+    "extraction_method": "Pattern 3: ENEMS detection"
+  },
+  {
+    "bat_id": "BAT 2",
+    "title": "continuous environmental improvement",
+    "text": "BAT 2: continuous environmental improvement",
+    "page": 303,
+    "extraction_method": "Pattern 1: BAT X:"
+  },
+  {
+    "bat_id": "BAT 3",
+    "title": "carry out an ENE audit",
+    "text": "BAT 3: carry out an ENE audit ",
+    "page": 303,
+    "extraction_method": "Pattern 1: BAT X:"
+  },
+  {
+    "bat_id": "BAT 4",
+    "title": "audit to identify ENE aspects and options",
+    "text": "BAT 4: audit to identify ENE aspects and options",
+    "page": 303,
+    "extraction_method": "Pattern 1: BAT X:"
+  },
+  {
+    "bat_id": "BAT 5",
+    "title": "use appropriate tools for BAT 4",
+    "text": "BAT 5: use appropriate tools for BAT 4",
+    "page": 303,
+    "extraction_method": "Pattern 1: BAT X:"
+  },
+  {
+    "bat_id": "BAT 6",
+    "title": "identify opportunities to optimise energy",
+    "text": "BAT 6: identify opportunities to optimise energy",
+    "page": 303,
+    "extraction_method": "Pattern 1: BAT X:"
+  },
+  {
+    "bat_id": "BAT 7",
+    "title": "take a systems approach",
+    "text": "BAT 7: take a systems approach",
+    "page": 303,
+    "extraction_method": "Pattern 1: BAT X:"
+  },
+  {
+    "bat_id": "BAT 8",
+    "title": "establish ENE indicators",
+    "text": "BAT 8: establish ENE indicators",
+    "page": 303,
+    "extraction_method": "Pattern 1: BAT X:"
+  },
+  {
+    "bat_id": "BAT 9",
+    "title": "carry out systematic comparisons",
+    "text": "BAT 9: carry out systematic comparisons",
+    "page": 303,
+    "extraction_method": "Pattern 1: BAT X:"
+  },
+  {
+    "bat_id": "BAT 10",
+    "title": "ENE Design (EED) including developing",
+    "text": "BAT 10: ENE Design (EED) including developing ",
+    "page": 303,
+    "extraction_method": "Pattern 1: BAT X:"
+  },
+  {
+    "bat_id": "BAT 11",
+    "title": "seek ENE by process integration",
+    "text": "BAT 11: seek ENE by process integration",
+    "page": 303,
+    "extraction_method": "Pattern 1: BAT X:"
+  },
+  {
+    "bat_id": "BAT 12",
+    "title": "Maintaining impetus",
+    "text": "BAT 12: Maintaining impetus",
+    "page": 303,
+    "extraction_method": "Pattern 1: BAT X:"
+  },
+  {
+    "bat_id": "BAT 13",
+    "title": "training, awareness and competence",
+    "text": "BAT 13: training, awareness and competence",
+    "page": 303,
+    "extraction_method": "Pattern 1: BAT X:"
+  },
+  {
+    "bat_id": "BAT 14",
+    "title": "efficient control of processes",
+    "text": "BAT 14: efficient control of processes",
+    "page": 303,
+    "extraction_method": "Pattern 1: BAT X:"
+  },
+  {
+    "bat_id": "BAT 15",
+    "title": "maintenance",
+    "text": "BAT 15: maintenance",
+    "page": 303,
+    "extraction_method": "Pattern 1: BAT X:"
+  },
+  {
+    "bat_id": "BAT 16",
+    "title": "monitoring and measurement",
+    "text": "BAT 16: monitoring and measurement",
+    "page": 303,
+    "extraction_method": "Pattern 1: BAT X:"
+  },
+  {
+    "bat_id": "BAT 17",
+    "title": "4.3.1  Combustion",
+    "text": "BAT 17: 4.3.1  Combustion ",
+    "page": 303,
+    "extraction_method": "Pattern 1: BAT X:"
+  },
+  {
+    "bat_id": "BAT 18",
+    "title": "4.3.2  Steam systems",
+    "text": "BAT 18: 4.3.2  Steam systems",
+    "page": 303,
+    "extraction_method": "Pattern 1: BAT X:"
+  },
+  {
+    "bat_id": "BAT 19",
+    "title": "4.3.3  Heat recovery",
+    "text": "BAT 19: 4.3.3  Heat recovery ",
+    "page": 303,
+    "extraction_method": "Pattern 1: BAT X:"
+  },
+  {
+    "bat_id": "BAT 20",
+    "title": "4.3.4  Cogeneration",
+    "text": "BAT 20: 4.3.4  Cogeneration ",
+    "page": 303,
+    "extraction_method": "Pattern 1: BAT X:"
+  },
+  {
+    "bat_id": "BAT 21",
+    "title": ", 22, and 23:",
+    "text": "BAT 21: , 22, and 23:",
+    "page": 303,
+    "extraction_method": "Overview section"
+  },
+  {
+    "bat_id": "BAT 24",
+    "title": "4.3.6  Electric-motor-driven",
+    "text": "BAT 24:  4.3.6  Electric-motor-driven",
+    "page": 303,
+    "extraction_method": "Pattern 1: BAT X:"
+  },
+  {
+    "bat_id": "BAT 25",
+    "title": "4.3.7  Compressed air systems",
+    "text": "BAT 25: 4.3.7  Compressed air systems",
+    "page": 303,
+    "extraction_method": "Pattern 1: BAT X:"
+  },
+  {
+    "bat_id": "BAT 26",
+    "title": "4.3.8  Pumping systems",
+    "text": "BAT 26: 4.3.8  Pumping systems ",
+    "page": 303,
+    "extraction_method": "Pattern 1: BAT X:"
+  },
+  {
+    "bat_id": "BAT 27",
+    "title": "4.3.9 HVAC (heating,",
+    "text": "BAT 27: 4.3.9 HVAC (heating, ",
+    "page": 303,
+    "extraction_method": "Pattern 1: BAT X:"
+  },
+  {
+    "bat_id": "BAT 28",
+    "title": "4.3.10 Lighting systems",
+    "text": "BAT 28: 4.3.10 Lighting systems",
+    "page": 303,
+    "extraction_method": "Pattern 1: BAT X:"
+  },
+  {
+    "bat_id": "BAT 29",
+    "title": "4.3.11  Drying and separation",
+    "text": "BAT 29: 4.3.11  Drying and separation ",
+    "page": 303,
+    "extraction_method": "Pattern 1: BAT X:"
+  }
+]

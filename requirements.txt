@@ -1,0 +1,60 @@
+# Enhanced BAT Compliance Verification System Requirements
+
+# Core framework
+pydantic>=2.5.0
+pydantic[email]>=2.5.0
+
+# PDF processing (Docling as proposed)
+docling>=1.0.0
+pymupdf>=1.23.0  # Alternative/fallback PDF processor
+pdfplumber>=0.10.0  # For complex table extraction
+
+# AI/LLM integration
+openai>=1.0.0
+anthropic>=0.18.0  # Alternative LLM provider
+tiktoken>=0.5.0  # Token counting
+
+# Web framework
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+jinja2>=3.1.0  # Template engine
+
+# Data processing
+pandas>=2.1.0
+numpy>=1.24.0
+openpyxl>=3.1.0  # Excel file support
+
+# Validation and testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+jsonschema>=4.19.0
+
+# File handling
+pathlib2>=2.3.7
+aiofiles>=23.2.0
+
+# Logging and monitoring
+loguru>=0.7.2
+rich>=13.6.0  # Rich console output
+
+# Configuration management
+python-dotenv>=1.0.0
+pyyaml>=6.0.1
+
+# Security
+cryptography>=41.0.0
+python-jose[cryptography]>=3.3.0
+
+# Database (optional for permit storage)
+sqlalchemy>=2.0.0
+alembic>=1.12.0
+
+# Development tools
+black>=23.9.0
+flake8>=6.1.0
+mypy>=1.6.0
+pre-commit>=3.5.0
+
+# Documentation
+mkdocs>=1.5.0
+mkdocs-material>=9.4.0

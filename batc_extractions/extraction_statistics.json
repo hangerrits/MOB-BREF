@@ -1,0 +1,162 @@
+{
+  "CAK": {
+    "bbt_count": 4,
+    "total_chars": 12816,
+    "has_tables": 0,
+    "language": "Dutch",
+    "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32013D0732",
+    "extraction_time": "2025-05-30T08:38:04.333801"
+  },
+  "CLM": {
+    "bbt_count": 4,
+    "total_chars": 12816,
+    "has_tables": 0,
+    "language": "Dutch",
+    "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32013D0732",
+    "extraction_time": "2025-05-30T08:38:07.066529"
+  },
+  "CWW": {
+    "bbt_count": 23,
+    "total_chars": 40086,
+    "has_tables": 1,
+    "language": "Dutch",
+    "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016D0902",
+    "extraction_time": "2025-05-30T08:38:08.476277"
+  },
+  "FDM": {
+    "bbt_count": 36,
+    "total_chars": 46600,
+    "has_tables": 15,
+    "language": "Dutch",
+    "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32019D2031",
+    "extraction_time": "2025-05-30T08:38:11.615592"
+  },
+  "FMP": {
+    "bbt_count": 36,
+    "total_chars": 46600,
+    "has_tables": 15,
+    "language": "Dutch",
+    "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32019D2031",
+    "extraction_time": "2025-05-30T08:38:12.984833"
+  },
+  "IRPP": {
+    "bbt_count": 34,
+    "total_chars": 64166,
+    "has_tables": 5,
+    "language": "Dutch",
+    "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32017D0302",
+    "extraction_time": "2025-05-30T08:38:16.001861"
+  },
+  "IS": {
+    "bbt_count": 7,
+    "total_chars": 53511,
+    "has_tables": 0,
+    "language": "Dutch",
+    "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32012D0135",
+    "extraction_time": "2025-05-30T08:38:19.023165"
+  },
+  "LCP": {
+    "bbt_count": 75,
+    "total_chars": 135143,
+    "has_tables": 35,
+    "language": "English",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32021D2326",
+    "extraction_time": "2025-05-30T08:38:21.057624"
+  },
+  "LVOC": {
+    "bbt_count": 13,
+    "total_chars": 61012,
+    "has_tables": 8,
+    "language": "Dutch",
+    "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32017D2117",
+    "extraction_time": "2025-05-30T08:38:22.602963"
+  },
+  "NFM": {
+    "bbt_count": 145,
+    "total_chars": 153289,
+    "has_tables": 41,
+    "language": "Dutch",
+    "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016D1032",
+    "extraction_time": "2025-05-30T08:38:24.270560"
+  },
+  "PP": {
+    "bbt_count": 145,
+    "total_chars": 153289,
+    "has_tables": 41,
+    "language": "Dutch",
+    "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016D1032",
+    "extraction_time": "2025-05-30T08:38:26.123267"
+  },
+  "REF": {
+    "bbt_count": 53,
+    "total_chars": 51322,
+    "has_tables": 10,
+    "language": "Dutch",
+    "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32014D0738",
+    "extraction_time": "2025-05-30T08:38:27.707884"
+  },
+  "SA": {
+    "bbt_count": 25,
+    "total_chars": 33875,
+    "has_tables": 5,
+    "language": "Dutch",
+    "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:02023D2749-20231218&qid=1748586721823",
+    "extraction_time": "2025-05-30T08:38:30.087737"
+  },
+  "SF": {
+    "bbt_count": 52,
+    "total_chars": 114676,
+    "has_tables": 18,
+    "language": "Dutch",
+    "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202402974",
+    "extraction_time": "2025-05-30T08:38:31.736225"
+  },
+  "STS": {
+    "bbt_count": 52,
+    "total_chars": 99843,
+    "has_tables": 9,
+    "language": "Dutch",
+    "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32020D2009",
+    "extraction_time": "2025-05-30T08:38:34.473522"
+  },
+  "TXT": {
+    "bbt_count": 52,
+    "total_chars": 88827,
+    "has_tables": 5,
+    "language": "Dutch",
+    "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32022D2508",
+    "extraction_time": "2025-05-30T08:38:38.647858"
+  },
+  "WBP": {
+    "bbt_count": 21,
+    "total_chars": 21190,
+    "has_tables": 1,
+    "language": "Dutch",
+    "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32015D2119",
+    "extraction_time": "2025-05-30T08:38:39.991310"
+  },
+  "WGC": {
+    "bbt_count": 34,
+    "total_chars": 48829,
+    "has_tables": 6,
+    "language": "Dutch",
+    "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32022D2427",
+    "extraction_time": "2025-05-30T08:38:43.073696"
+  },
+  "WI": {
+    "bbt_count": 33,
+    "total_chars": 68348,
+    "has_tables": 6,
+    "language": "Dutch",
+    "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32019D2010",
+    "extraction_time": "2025-05-30T08:38:44.499907"
+  },
+  "WT": {
+    "bbt_count": 52,
+    "total_chars": 70391,
+    "has_tables": 6,
+    "language": "Dutch",
+    "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32018D1147",
+    "extraction_time": "2025-05-30T08:38:45.949679"
+  }
+}

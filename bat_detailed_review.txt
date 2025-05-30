@@ -1,0 +1,4440 @@
+BAT EXTRACTION DETAILED REVIEW
+Generated: 2025-05-30 07:46:37
+
+INSTRUCTIONS:
+- Review each BAT entry below
+- Mark ✓ for correct extractions
+- Mark ✗ for incorrect extractions
+- Add comments for any needed corrections
+
+=================================================================
+
+BREF: ICS (24 BATs)
+=================================
+
+
+□ ICS-BAT-1: elaborate and implement an
+   Page: 8
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   epends on the animal species under consideration (see General consideration for BAT-AEPLs for 
+specific waste water discharge).
+Unless otherwise stated, the calculation of the energy consumption of sl...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ICS-BAT-1: and Section
+   Page: 16
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   systems;
+— reduction of compressed air system leaks;
+— lighting management systems;
+— energy-efficient lighting;
+— optimisation of design and operation of cooling system(s).
+Applicability of cogenerat...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ICS-BAT-2: establish, maintain and regularly
+   Page: 10
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   shes the European Union eco-management and audit scheme (EMAS), 
+which is an example of an EMS consistent with this BAT.
+Applicability
+The level of detail and the degree of formalisation of the EMS wi...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ICS-BAT-2: use both of the techniques given below.
+   Page: 15
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   f inputs and outputs 
+mentioned in BAT 2.
+(3) This includes combustion (e.g. in thermal oxidisers or steam boilers) of malodorous gases, including non-condensable gases.
+(4) The monitoring only applie...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ICS-BAT-2: and Section
+   Page: 17
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   cted 
+in a way that facilitates cleaning. When optimising the design 
+and construction, hygiene requirements are taken into 
+account.
+k
+Prompt cleaning 
+of equipment
+Cleaning is applied as soon as pos...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ICS-BAT-3: elaborate and implement a
+   Page: 11
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   ELI: http://data.europa.eu/eli/dec_impl/2023/2749/oj 
+11/32
+Applicability
+The level of detail and the degree of formalisation of the inventory will generally be related to the nature, scale and 
+compl...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ICS-BAT-4: (b) (i) and/or
+   Page: 3
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   ), provided that the main 
+pollutant load originates from the activities covered by these BAT conclusions.
+These BAT conclusions also cover the following:
+— the processing of animal by-products and/or...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ICS-BAT-4: set up and implement a risk-based OTNOC management plan as part of the EMS (see BAT 1)
+   Page: 11
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   mplementation of procedures for the procurement, handling, storage and use of chemicals 
+to prevent or reduce emissions to the environment.
+Applicability
+The level of detail and the degree of formalis...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ICS-BAT-5: monitor key process parameters (e.g. continuous monitoring of waste water flow, pH and temperature)
+   Page: 12
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   dic assessment of 
+point v.;
+vii. regular testing of backup systems.
+Applicability
+The level of detail and degree of formalisation of the OTNOC management plan will generally be related to the 
+nature...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ICS-BAT-6: monitor at least once per year:
+   Page: 12
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   5.
+For waste water streams identified by the inventory of inputs and outputs (see BAT 2), BAT is to 
+monitor key process parameters (e.g. continuous monitoring of waste water flow, pH and temperature)...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ICS-BAT-6: use technique
+   Page: 27
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   he specific waste water discharge 
+includes water used by FDM activities.
+(4) The upper end of the BAT-AEPL range may be higher and up to 2,45 m3/animal in case the specific waste water discharge incl...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ICS-BAT-7: monitor emissions to water with at least the frequency given below and in accordance with EN
+   Page: 12
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   rigerant(s) used to refill the cooling system(s) in slaughterhouses.
+Description
+Monitoring preferentially includes direct measurements. Calculations or recording, e.g. using suitable meters or 
+invoi...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ICS-BAT-7: use ISO, national or other international standards
+   Page: 12
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   or recording, e.g. using suitable meters or 
+invoices, can also be used. The monitoring is performed at installation level (and can be broken down to the 
+most appropriate process level) and considers...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ICS-BAT-8: monitor channelled emissions to air with at least the frequency given below and in accordance
+   Page: 14
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   ELI: http://data.europa.eu/eli/dec_impl/2023/2749/oj 
+14/32
+BAT 8.
+BAT is to monitor channelled emissions to air with at least the frequency given below and in accordance 
+with EN standards. If EN sta...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ICS-BAT-8: use ISO, national or other international
+   Page: 14
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   ELI: http://data.europa.eu/eli/dec_impl/2023/2749/oj 
+14/32
+BAT 8.
+BAT is to monitor channelled emissions to air with at least the frequency given below and in accordance 
+with EN standards. If EN sta...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ICS-BAT-11: use one or a combination of the techniques given below.
+   Page: 18
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   ELI: http://data.europa.eu/eli/dec_impl/2023/2749/oj 
+18/32
+1.1.5
+Harmful substances
+BAT 11. In order to prevent or, where that is not practicable, to reduce the use of harmful substances in cleaning ...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ICS-BAT-12: use both techniques (a) and (b), if appropriate in
+   Page: 18
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   into account.
+c
+Dry cleaning
+See BAT 10 (f).
+d
+Optimised design and construction of 
+equipment and process areas
+See BAT 10 (j).
+(1) Directive 2000/60/EC of the European Parliament and of the Council ...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ICS-BAT-13: provide an appropriate buffer storage
+   Page: 19
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   ELI: http://data.europa.eu/eli/dec_impl/2023/2749/oj 
+19/32
+Technique
+Description
+Applicability
+d
+Phosphorus 
+recovery as 
+struvite
+See Section 1.4.1.
+Only applicable to waste water 
+streams 
+with 
+a ...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ICS-BAT-14: use an appropriate combination of the techniques given
+   Page: 19
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   of waste water generated during several peak hours of 
+operation.
+The waste water from this buffer storage is discharged after appropriate measures are taken (e.g. monitoring, 
+treatment, reuse).
+Appl...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ICS-BAT-17: use one or a
+   Page: 23
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   identify the source(s), to measure/estimate noise exposure, to 
+characterise the contributions of the sources and to implement prevention and/or reduction measures.
+Applicability
+The applicability is ...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ICS-BAT-20: use refrigerants without ozone depletion
+   Page: 25
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   ossible to the point of odour 
+generation with full or partial enclosure. Extracted air 
+may be treated (see BAT 25).
+Generally applicable.
+BAT-AELs for channelled emissions to air of odour: see Table...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ICS-BAT-21: use both of the techniques given in BAT 9 in
+   Page: 25
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   erants without ozone depletion 
+potential and with a low global warming potential.
+Description
+Suitable refrigerants include for example water, carbon dioxide, propane and ammonia.
+1.2
+BAT conclusions...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ICS-BAT-24: use both of the techniques given in BAT 9, if appropriate
+   Page: 28
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   ELI: http://data.europa.eu/eli/dec_impl/2023/2749/oj 
+28/32
+1.3.1
+Energy efficiency
+BAT 24. In order to increase energy efficiency, BAT is to use both of the techniques given in BAT 9, if appropriate ...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ICS-BAT-25: use one or a combination of the techniques given below.
+   Page: 29
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   ELI: http://data.europa.eu/eli/dec_impl/2023/2749/oj 
+29/32
+1.3.3
+Emissions to air
+BAT 25. In order to reduce emissions to air of organic compounds and malodorous compounds, including H2S 
+and NH3, BA...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+BREF: ENE (29 BATs)
+=================================
+
+
+□ ENE-BAT-1: ENEMS
+   Page: 303
+   Extraction: Enhanced pattern: BAT\s+(\d+):\s*([^\n]+)
+   
+   Raw Text (first 200 chars):
+   Chapter 4 
+272 
+Energy Efficiency 
+BAT 1: ENEMS
+Existing installations
+(a) commitment of top
+management
+(b) definition of an energy
+efficiency policy
+(c) planning and establishing
+objectives and targe...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ENE-BAT-2: continuous environmental improvement
+   Page: 303
+   Extraction: Enhanced pattern: BAT\s+(\d+):\s*([^\n]+)
+   
+   Raw Text (first 200 chars):
+   rking
+(f) checking performance and
+taking corrective action
+(g) review of the ENEMS
+(j) when designing a new unit,
+taking into account the
+environmental impact from the
+eventual decommissioning of the...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ENE-BAT-3: carry out an ENE audit
+   Page: 303
+   Extraction: Enhanced pattern: BAT\s+(\d+):\s*([^\n]+)
+   
+   Raw Text (first 200 chars):
+   rrective action
+(g) review of the ENEMS
+(j) when designing a new unit,
+taking into account the
+environmental impact from the
+eventual decommissioning of the
+unit
+Upgrading existing installations 
+or n...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ENE-BAT-3: ENE audit
+   Page: 303
+   Extraction: Enhanced pattern: BAT\s+(\d+):\s*([^\n]+)
+   
+   Raw Text (first 200 chars):
+   hecking performance
+1) BAT 16: monitoring and measurement
+2) corrective and preventive action
+3) maintenance of records
+4) BAT 3 and 4: independent or internal auditing
+Data and techniques in other ve...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ENE-BAT-4: audit to identify ENE aspects and options
+   Page: 303
+   Extraction: Enhanced pattern: BAT\s+(\d+):\s*([^\n]+)
+   
+   Raw Text (first 200 chars):
+   he ENEMS
+(j) when designing a new unit,
+taking into account the
+environmental impact from the
+eventual decommissioning of the
+unit
+Upgrading existing installations 
+or new installations
+(k) developmen...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ENE-BAT-5: use appropriate tools for BAT 4
+   Page: 303
+   Extraction: Enhanced pattern: BAT\s+(\d+):\s*([^\n]+)
+   
+   Raw Text (first 200 chars):
+   to account the
+environmental impact from the
+eventual decommissioning of the
+unit
+Upgrading existing installations 
+or new installations
+(k) development of energy-efficient
+technologies, and to follow...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ENE-BAT-6: identify opportunities to optimise energy
+   Page: 303
+   Extraction: Enhanced pattern: BAT\s+(\d+):\s*([^\n]+)
+   
+   Raw Text (first 200 chars):
+   m the
+eventual decommissioning of the
+unit
+Upgrading existing installations 
+or new installations
+(k) development of energy-efficient
+technologies, and to follow
+developments in ENE technologies
+BAT 1...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ENE-BAT-7: take a systems approach
+   Page: 303
+   Extraction: Enhanced pattern: BAT\s+(\d+):\s*([^\n]+)
+   
+   Raw Text (first 200 chars):
+   installations
+(k) development of energy-efficient
+technologies, and to follow
+developments in ENE technologies
+BAT 1(c): Planning objectives and targets
+BAT 2: continuous environmental improvement
+BAT...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ENE-BAT-7: take a systems approach to ENE
+   Page: 303
+   Extraction: Enhanced pattern: BAT\s+(\d+):\s*([^\n]+)
+   
+   Raw Text (first 200 chars):
+   19: 4.3.3  Heat recovery 
+BAT 20: 4.3.4  Cogeneration 
+BAT 21, 22, and 23: 
+4.3.5  Electric power supply 
+BAT 24:  4.3.6  Electric-motor-driven
+subsystems 
+BAT 25: 4.3.7  Compressed air systems
+BAT 26...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ENE-BAT-7: systems
+   Page: 303
+   Extraction: Enhanced pattern: BAT\s+(\d+):\s*([^\n]+)
+   
+   Raw Text (first 200 chars):
+   e
+1) BAT 16: monitoring and measurement
+2) corrective and preventive action
+3) maintenance of records
+4) BAT 3 and 4: independent or internal auditing
+Data and techniques in other vertical 
+BREFs  for...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ENE-BAT-8: establish ENE indicators
+   Page: 303
+   Extraction: Enhanced pattern: BAT\s+(\d+):\s*([^\n]+)
+   
+   Raw Text (first 200 chars):
+   s
+BAT 1(c): Planning objectives and targets
+BAT 2: continuous environmental improvement
+BAT 3: carry out an ENE audit 
+BAT 4: audit to identify ENE aspects and options
+BAT 5: use appropriate tools for...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ENE-BAT-9: carry out systematic comparisons
+   Page: 303
+   Extraction: Enhanced pattern: BAT\s+(\d+):\s*([^\n]+)
+   
+   Raw Text (first 200 chars):
+   and targets
+BAT 2: continuous environmental improvement
+BAT 3: carry out an ENE audit 
+BAT 4: audit to identify ENE aspects and options
+BAT 5: use appropriate tools for BAT 4
+BAT 6: identify opportuni...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ENE-BAT-10: ENE Design (EED) including developing
+   Page: 303
+   Extraction: Enhanced pattern: BAT\s+(\d+):\s*([^\n]+)
+   
+   Raw Text (first 200 chars):
+   pply 
+BAT 24:  4.3.6  Electric-motor-driven
+subsystems 
+BAT 25: 4.3.7  Compressed air systems
+BAT 26: 4.3.8  Pumping systems 
+BAT 27: 4.3.9 HVAC (heating, 
+ventilation, air conditioning)
+BAT 28: 4.3.1...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ENE-BAT-11: seek ENE by process integration
+   Page: 303
+   Extraction: Enhanced pattern: BAT\s+(\d+):\s*([^\n]+)
+   
+   Raw Text (first 200 chars):
+   of energy-efficient
+technologies, and to follow
+developments in ENE technologies
+BAT 1(c): Planning objectives and targets
+BAT 2: continuous environmental improvement
+BAT 3: carry out an ENE audit 
+BA...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ENE-BAT-12: Maintaining impetus
+   Page: 303
+   Extraction: Enhanced pattern: BAT\s+(\d+):\s*([^\n]+)
+   
+   Raw Text (first 200 chars):
+   on and agreements
+BAT 1(f) checking performance
+1) BAT 16: monitoring and measurement
+2) corrective and preventive action
+3) maintenance of records
+4) BAT 3 and 4: independent or internal auditing
+Dat...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ENE-BAT-13: training, awareness and competence
+   Page: 303
+   Extraction: Enhanced pattern: BAT\s+(\d+):\s*([^\n]+)
+   
+   Raw Text (first 200 chars):
+   nditioning)
+BAT 28: 4.3.10 Lighting systems
+BAT 29: 4.3.11  Drying and separation 
+BAT1(k): development of ENE technologies
+BAT 7: take a systems approach to ENE
+BAT 6: identify opportunities to optim...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ENE-BAT-14: efficient control of processes
+   Page: 303
+   Extraction: Enhanced pattern: BAT\s+(\d+):\s*([^\n]+)
+   
+   Raw Text (first 200 chars):
+   of ENE technologies
+BAT 7: take a systems approach to ENE
+BAT 6: identify opportunities to optimise energy
+     recovery
+BAT 10: ENE Design (EED) including developing 
+or selecting  ENE technologies
+B...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ENE-BAT-15: maintenance
+   Page: 303
+   Extraction: Enhanced pattern: BAT\s+(\d+):\s*([^\n]+)
+   
+   Raw Text (first 200 chars):
+   approach to ENE
+BAT 6: identify opportunities to optimise energy
+     recovery
+BAT 10: ENE Design (EED) including developing 
+or selecting  ENE technologies
+BAT 11:  seek ENE by process integration
+BA...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ENE-BAT-16: monitoring and measurement
+   Page: 303
+   Extraction: Enhanced pattern: BAT\s+(\d+):\s*([^\n]+)
+   
+   Raw Text (first 200 chars):
+   process integration
+BAT 1(d): Procedures
+1) structure and responsibility
+2) BAT 13: training, awareness and competence
+3) communication
+4) employee involvement
+5) documentation
+6) BAT 14: efficient co...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ENE-BAT-17: 4.3.1  Combustion
+   Page: 303
+   Extraction: Enhanced pattern: BAT\s+(\d+):\s*([^\n]+)
+   
+   Raw Text (first 200 chars):
+   tal improvement
+BAT 3: carry out an ENE audit 
+BAT 4: audit to identify ENE aspects and options
+BAT 5: use appropriate tools for BAT 4
+BAT 6: identify opportunities to optimise energy
+recovery (includ...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ENE-BAT-18: 4.3.2  Steam systems
+   Page: 303
+   Extraction: Enhanced pattern: BAT\s+(\d+):\s*([^\n]+)
+   
+   Raw Text (first 200 chars):
+   y out an ENE audit 
+BAT 4: audit to identify ENE aspects and options
+BAT 5: use appropriate tools for BAT 4
+BAT 6: identify opportunities to optimise energy
+recovery (including cogeneration)
+BAT 7: ta...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ENE-BAT-19: 4.3.3  Heat recovery
+   Page: 303
+   Extraction: Enhanced pattern: BAT\s+(\d+):\s*([^\n]+)
+   
+   Raw Text (first 200 chars):
+   dit to identify ENE aspects and options
+BAT 5: use appropriate tools for BAT 4
+BAT 6: identify opportunities to optimise energy
+recovery (including cogeneration)
+BAT 7: take a systems approach
+BAT 11:...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ENE-BAT-20: 4.3.4  Cogeneration
+   Page: 303
+   Extraction: Enhanced pattern: BAT\s+(\d+):\s*([^\n]+)
+   
+   Raw Text (first 200 chars):
+   d options
+BAT 5: use appropriate tools for BAT 4
+BAT 6: identify opportunities to optimise energy
+recovery (including cogeneration)
+BAT 7: take a systems approach
+BAT 11: seek ENE by process integrati...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ENE-BAT-24: 4.3.6  Electric-motor-driven
+   Page: 303
+   Extraction: Enhanced pattern: BAT\s+(\d+):\s*([^\n]+)
+   
+   Raw Text (first 200 chars):
+   o optimise energy
+recovery (including cogeneration)
+BAT 7: take a systems approach
+BAT 11: seek ENE by process integration
+BAT 1(e): Benchmarking and comparisons
+BAT 8: establish ENE indicators
+BAT 9:...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ENE-BAT-25: 4.3.7  Compressed air systems
+   Page: 303
+   Extraction: Enhanced pattern: BAT\s+(\d+):\s*([^\n]+)
+   
+   Raw Text (first 200 chars):
+   )
+BAT 7: take a systems approach
+BAT 11: seek ENE by process integration
+BAT 1(e): Benchmarking and comparisons
+BAT 8: establish ENE indicators
+BAT 9: carry out systematic comparisons
+BAT 17: 4.3.1  C...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ENE-BAT-26: 4.3.8  Pumping systems
+   Page: 303
+   Extraction: Enhanced pattern: BAT\s+(\d+):\s*([^\n]+)
+   
+   Raw Text (first 200 chars):
+   1: seek ENE by process integration
+BAT 1(e): Benchmarking and comparisons
+BAT 8: establish ENE indicators
+BAT 9: carry out systematic comparisons
+BAT 17: 4.3.1  Combustion 
+BAT 18: 4.3.2  Steam system...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ENE-BAT-27: 4.3.9 HVAC (heating,
+   Page: 303
+   Extraction: Enhanced pattern: BAT\s+(\d+):\s*([^\n]+)
+   
+   Raw Text (first 200 chars):
+   on
+BAT 1(e): Benchmarking and comparisons
+BAT 8: establish ENE indicators
+BAT 9: carry out systematic comparisons
+BAT 17: 4.3.1  Combustion 
+BAT 18: 4.3.2  Steam systems
+BAT 19: 4.3.3  Heat recovery 
+...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ENE-BAT-28: 4.3.10 Lighting systems
+   Page: 303
+   Extraction: Enhanced pattern: BAT\s+(\d+):\s*([^\n]+)
+   
+   Raw Text (first 200 chars):
+   E indicators
+BAT 9: carry out systematic comparisons
+BAT 17: 4.3.1  Combustion 
+BAT 18: 4.3.2  Steam systems
+BAT 19: 4.3.3  Heat recovery 
+BAT 20: 4.3.4  Cogeneration 
+BAT 21, 22, and 23: 
+4.3.5  Elec...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ ENE-BAT-29: 4.3.11  Drying and separation
+   Page: 303
+   Extraction: Enhanced pattern: BAT\s+(\d+):\s*([^\n]+)
+   
+   Raw Text (first 200 chars):
+   stematic comparisons
+BAT 17: 4.3.1  Combustion 
+BAT 18: 4.3.2  Steam systems
+BAT 19: 4.3.3  Heat recovery 
+BAT 20: 4.3.4  Cogeneration 
+BAT 21, 22, and 23: 
+4.3.5  Electric power supply 
+BAT 24:  4.3....
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+BREF: CVS (18 BATs)
+=================================
+
+
+□ CVS-BAT-1: [mg FO/l] and
+   Page: 9
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   rogrammes can be highly complex and the range of chemicals used can be large.  As
+a consequence, emission levels in the blowdown of these systems also show large variation and
+representative emission ...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ CVS-BAT-1: kWe/MWth cooling or
+   Page: 276
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   warm up the cooling tower basin with average 0.15 K,
+which is equivalent with an increased indirect energy usage of 0.5 kWth/MWth cooling. A separate
+pump to transport the biofilter effluent back to t...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ CVS-BAT-2: million, and further modifications again EUR were
+   Page: 284
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   limits:
+The conditioning regime cannot be applied to once-through systems without varying cooling
+water residence times.
+The optimisation of dosage intervals the system needs careful monitoring of the...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ CVS-BAT-4: ppm have the same efficiency as
+   Page: 292
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   plemental ionic water purification is an alternative
+method to treat cooling tower water with copper ions. It is claimed that a chemical-only water
+treatment system can be replaced by this technique l...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ CVS-BAT-5: [mg/l], with a value of
+   Page: 13
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   nt fouling.
+Depending on species and water temperature (above 10-12°C) continuous treatment at low
+levels may be necessary.
+For seawater, BAT-levels of free residual oxidant (FRO) in the discharge, as...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ CVS-BAT-5: [€/kWh] and water cost for an open circuit
+   Page: 56
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   this example is
+by large affected by the evaporation loss which has been calculated by assuming that they
+amount to 1.8% of the circulation per 10K of cooling (see Annex V.3).
+This example merely show...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ CVS-BAT-5: /houre (= for sand of
+   Page: 275
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   circulation of 11000 m3/h and a circuit volume of 3500 m3. The case system applied two
+filters of 5 m2 of filtersurface and about 10 kg VSS/m3 of filter, 4 m filterbed height, filtering
+sand (of 1.4-2...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ CVS-BAT-5: mg/l normally (sporadically
+   Page: 305
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   by truck. The
+chlorination can be made on continuous or discontinuous (seasonal) basis depending on many
+factors such as meteoclimatic characteristics of the site, water quality, cooling circuit desig...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ CVS-BAT-5: kWth/MWth per K.
+   Page: 316
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   t to the total efficiency and per K:
+4.572%o / (2.9 K * 0.4) = 3.9 kWth/MWth per K difference
+4.45%o / (3.2 K * 0.4) = 3.5 kWth/MWth per K difference
+9.026 %o / (6.1 K * 0.4) = 3.7 kWth/MWth per K dif...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ CVS-BAT-6: Primary energy input:
+   Page: 43
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   d easily be different in another situation, but no data were available to evaluate this point
+further.
+Table 1.2: Emissions of an average Western European power plant due to an efficiency loss of 3%
+[...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ CVS-BAT-6: times that of towers of similar capacity without plume suppression.
+   Page: 83
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   in some cases just about
+10 % of the annual costs of a cooling tower. These economic considerations depend of course
+on the individual application and the prices of water and energy [tm139, Eurovent, ...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ CVS-BAT-6: Compliance with the requirements in item
+   Page: 229
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   complied
+with if the flushing circuit is kept closed until a TB value of 12 or less is reached in ac-
+cordance with manufacturers' information about input concentrations and biodegrada-
+tion behaviour...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ CVS-BAT-7: /barrel; with an energy value of
+   Page: 183
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   he use of inhibitors exceeds the costs of the relevant
+additives by a very wide margin.
+An illustration of both effects, as discussed in this Annex, is presented in Figure II.1. A lower
+temperature of...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ CVS-BAT-7: increasing concentration of salts : factor
+   Page: 260
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   Annex VIII
+238
+Industrial Cooling Systems
+Table VIII.5: Consequences of closing the discharge
+Situation:
+biocide DBPNA : k = 0,3 [sec-1] ; τ1/2 = 2 hr ; C0= 4 [mg/l] ; C = C0  * exp -(Qv/V+k)*t [1];
+V...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ CVS-BAT-31: µg/l with a dose of
+   Page: 290
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   bout 0.18 mg/l. (6.5 kg/hour) and to reduce this even further in wintertime. These levels
+correspond well with other reported dosage levels. Dosage was continuous and effective in
+restricting mussel g...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ CVS-BAT-48: µg/l with a dose of
+   Page: 290
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   intertime. These levels
+correspond well with other reported dosage levels. Dosage was continuous and effective in
+restricting mussel growth. The resulting concentrations of trihalomethane formations (...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ CVS-BAT-65: kW and additional energy input
+   Page: 43
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   ther situation, but no data were available to evaluate this point
+further.
+Table 1.2: Emissions of an average Western European power plant due to an efficiency loss of 3%
+[tm139, Eurovent, 1998]
+Emiss...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ CVS-BAT-87: GJth/ metric tonne oil equivalent and
+   Page: 183
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   of the relevant
+additives by a very wide margin.
+An illustration of both effects, as discussed in this Annex, is presented in Figure II.1. A lower
+temperature of the coolant as well as the use of anti...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+BREF: OFC (1 BATs)
+=================================
+
+
+□ OFC-BAT-2006: (*) Vertrouwelijke informatie.
+   Page: 5
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   gen
+die naar het stimuleringskapitaal terugvloeien te onttrek-
+ken, voorzover de marktwaarde van het stimuleringskapi-
+taal hoger is dan 1,5 miljard DEM. Duitsland verklaart dat
+in de periode tot maar...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+BREF: NEW (61 BATs)
+=================================
+
+
+□ NEW-BAT-1: mg/l (corresponding to
+   Page: 107
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   ered not quantifiable below 0.1 mg/l 
+(corresponding to 0.03 mg/l of NO2-N). EN ISO 10304–1 (ion chromatography) gives a lower 
+limit of application of 0.05 mg/l (corresponding to 0.02 mg/l of NO2-N)....
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-1: and Section
+   Page: 337
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   n 3.4.2.3),
+◦
+sludge thickeners (see Section 3.4.2.2),
+◦
+sludge dewaterers (see Section 3.4.2.2),
+◦
+sludge incinerators (outside the scope of this document);
+
+exhaust air abatement facilities, such a...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-1: seconds) of highly pressurised (
+   Page: 478
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   ernal dust collection device. The bags are closed
+at the bottom, open at the top and supported by internal retainers. The laden gas flows
+from the outside to the inside of the bags, using diffusers to...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-1: implement and adhere to an environmental management system (EMS) that incorporates
+   Page: 572
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   Chapter 4 
+542 
+ Common Waste Water and Waste Gas Treatment/Management Systems in the Chemical Sector
+4.1 
+Environmental management systems 
+BAT 1. 
+In order to improve the overall environmental perfo...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-2: mg/l to protect against
+   Page: 119
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   crylates 
+upon pyrolysis. The primary concern regarding aqueous cyanide is that it could volatilise, 
+especially when the pH is below 8.  
+The cyanide ion (CN-) has a relatively short half-life becaus...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-2: and illustrated in Figure
+   Page: 200
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   technique are 
+mentioned in Table 3.6. 
+Reference literature 
+[ 63, VITO 2010 ] [ 217, RP Freiburg 2009 ] [ 251, Ullmann's 2000 ] 
+3.3.2.3 
+End-of-pipe techniques 
+3.3.2.3.1 
+Overview 
+To introduce a ...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-2: million/MGD (EUR
+   Page: 324
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   ut 10 000 m3/d (400 m3/h), operating costs include energy and 
+chemical consumption, membrane cleaning, sludge removal and maintenance [ 63, VITO 2010 ]. 
+(7) Chemical industry, flow rate of 2 000 m3/...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-2: and Section
+   Page: 341
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   Chapter 3 
+Common Waste Water and Waste Gas Treatment/Management Systems in the Chemical Sector 
+311 
+Example plants 
+Conventional activated sludge systems are extensively used as the central waste wa...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-2: establish and to maintain an inventory of waste water
+   Page: 573
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   ement Systems in the Chemical Sector
+543 
+Applicability 
+The scope (e.g. level of detail) and nature of the EMS (e.g. standardised or non-standardised) 
+will generally be related to the nature, scale ...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-2: pretreat waste water that
+   Page: 577
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   Chapter 4 
+Common Waste Water and Waste Gas Treatment/Management Systems in the Chemical Sector 
+547 
+Description 
+The integrated waste water management and treatment strategy is based on the inventor...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-2: use flaring only for
+   Page: 582
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   is to use an integrated waste gas 
+management and treatment strategy that includes process-integrated and waste gas 
+treatment techniques.  
+Description 
+The integrated waste gas management and treatm...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-3: kt of NMVOC to air, representing
+   Page: 46
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   s (NMVOC) 
+The majority of emissions of non-methane volatile organic compounds (NMVOC) in the 
+chemical industry sector are diffuse/fugitive emissions or occur during storage, and both sources 
+are di...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-3: (see Section
+   Page: 236
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   d, emulsions, oil and fat.
+Inorganic compounds are not affected by biological treatment and can, like refractory TOC, 
+tend to disturb the biological process in a biological WWTP. Both usually need sp...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-3: applies (i.e. additional costs > price
+   Page: 472
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   Depending on the particle sizes [ 176, Schenk et al. 2009 ]. 
+(11) The efficiency is particularly low with pollutants that are not easily humidified [ 176, Schenk et al. 2009 ]. 
+(12) [ 71, US EPA 199...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-3: monitor key process parameters (including continuous
+   Page: 574
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   Chapter 4 
+544 
+       Common Waste Water and Waste Gas Treatment/Management Systems in the Chemical Sector
+4.2 
+Monitoring 
+BAT 3. 
+For relevant emissions to water as identified by the inventory of w...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-4: monitor emissions to water in accordance with EN standards with at
+   Page: 574
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   and Waste Gas Treatment/Management Systems in the Chemical Sector
+4.2 
+Monitoring 
+BAT 3. 
+For relevant emissions to water as identified by the inventory of waste water 
+streams (see BAT 2), BAT is to...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-5: kt of TOC to water, representing
+   Page: 35
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   Chapter 1 
+Common Waste Water and Waste Gas Treatment/Management Systems in the Chemical Sector
+5 
+1.2.3 
+Emissions to water 
+1.2.3.1 
+Organic compounds 
+Emissions of organic compounds to water by ind...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-5: µg/l for mercury and mercury compounds. In Germany, the LOQ for Hg is
+   Page: 97
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   ation/waste gas treatment.
+Fluctuations of emissions around the average (in concentration)  
+Maximum Hg values reported for 18 WWTPs vary around the average by a factor of 1.0–57, but 
+more generally ...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-5: mg/l (corresponding to
+   Page: 107
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   . 0.2 mg/l to 2 mg/l. 
+Ninorg: In Flanders (Belgium), Ninorg is considered not quantifiable below 2 mg/l. In Germany, the 
+LOQ for Ninorg was reported to be about 1 mg/l. 
+NH4-N: see Section 2.4.4.3. ...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-5: mg/l, ideally less than
+   Page: 108
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   eria need a carbon source as food to live. 
+'Facultative' bacteria can get their oxygen by taking dissolved oxygen out of the water or by 
+taking it from nitrate molecules. 
+Denitrification occurs whe...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-5: m/s minimum recommended). The total flow rate should be sufficient to ensure dilution of
+   Page: 154
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   ources of emission 
+from their surroundings. This, however, presents concerns related to operability (access to 
+equipment), safety (avoiding concentrations too close to the LEL) and hygiene (where op...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-5: and chemical hydrolysis – see Section
+   Page: 201
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   waste water part are based on physical 
+and/or chemical operations, such as:  
+
+precipitation/sedimentation/filtration (see Section 3.3.2.3.4.2);
+
+crystallisation (see Section 3.3.2.3.4.3);
+
+chemic...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-5: hours (see Figure
+   Page: 208
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   ions 
+(e.g. pH, type and dose of coagulant used) and on the feed concentration of pollutant(s). 
+Source: [ 3, Environment Agency (England and Wales) 1997 ] 
+The sedimentators (or settlers) commonly op...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-5: and Section
+   Page: 337
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   for air flotation (see
+Section 3.3.2.3.3.5);
+
+sludge treatment facilities, such as:
+◦
+digesters (see Section 3.4.2.3),
+◦
+sludge thickeners (see Section 3.4.2.2),
+◦
+sludge dewaterers (see Section 3.4....
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-5: m, with a maximum of two to three layers. The specific load of the filter bed is
+   Page: 406
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   be assumed that in many cases open filter systems do not 
+allow a sufficient removal of emissions and often lack the technological features to achieve a 
+comprehensive VOC reduction. Enclosed high-tec...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-5: vol-% (min.
+   Page: 536
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   . 
+< 1 mg/Nm3, max. 55 mg/Nm3) 
+SO2: < 1 mg/Nm3 with < 0.002 kg/h (min.
+< 1 mg/Nm3, max. 1 mg/Nm3) 
+Mean values from 36 half-hourly averages 
+from continuous emission measurement: 
+NOX: 107 mg/Nm3 wit...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-5: periodically monitor diffuse VOC emissions to air from relevant
+   Page: 574
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   clearly demonstrate a sufficient stability. 
+(2) The sampling point is located where the emission leaves the installation. 
+(3) TOC monitoring and COD monitoring are alternatives. TOC monitoring is th...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-5: (potentially
+   Page: 615
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   case, a study of the impact of 
+industrial streams on the municipal treatment plant (impact on operation and sludge disposal) is 
+done and an 'industrial release agreement' is signed between industry ...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-6: presents examples of the buffering capacities in place at some German chemical sites.
+   Page: 195
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   d. For process waters which can be emitted to the environment, 
+tanks are used for this purpose, whereas for surface water drainage, open lagoons or retention 
+ponds are used (see Section 3.3.2.3.6.2)...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-6: vol-%, max. of
+   Page: 535
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   tent: 15 vol-% (mean value from 37 
+half-hourly averages with a min. value of 
+14.75 vol-% and a max. of 16.73 vol-%) 
+Reference O2 content: 10 % 
+O2 content: 12.79 vol-% (mean value from 
+48 half-hou...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-6: periodically monitor odour emissions from relevant sources in
+   Page: 575
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   ical Sector 
+545 
+Where large amounts of VOCs are handled, the screening and quantification of emissions from 
+the installation by periodic campaigns with optical absorption-based techniques, such as ...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-7: %, but more generally from
+   Page: 105
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   Chapter 2 
+Common Waste Water and Waste Gas Treatment/Management Systems in the Chemical Sector
+75 
+Biological WWTPs showing relatively high BOD5 and/or TSS values in the effluent (e.g. #25, 
+#57, #70...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-7: reduce the volume and/or pollutant load of waste water streams, to enhance the reuse
+   Page: 576
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   Chapter 4 
+546 
+       Common Waste Water and Waste Gas Treatment/Management Systems in the Chemical Sector
+4.3 
+Emissions to water 
+4.3.1 
+Water usage and waste water generation 
+BAT 7. 
+In order to ...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-8: t of lead to water, representing
+   Page: 44
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   Chapter 1 
+14 
+       Common Waste Water and Waste Gas Treatment/Management Systems in the Chemical Sector 
+1.2.3.10 
+Lead 
+Emissions of lead to water by industry sector are shown in Figure 1.12. In 2...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-8: kt of ammonia to air, representing
+   Page: 47
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   Chapter 1 
+Common Waste Water and Waste Gas Treatment/Management Systems in the Chemical Sector
+17 
+1.2.4.2 
+Ammonia 
+Ammonia emissions to air by industry sector are shown in Figure 1.15. In 2010, 99 ...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-8: mg/l are shown)
+   Page: 89
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   code (see Table 7.1 in Section 7.2, Annex II) and the type of treatment. 
+Bio = biological treatment; LOD = limit of detection; PC = physico-chemical treatment only. 
+Source: [ 246, EIPPCB 2014 ] base...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-8: segregate uncontaminated waste water streams from waste
+   Page: 576
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   to reduce the usage of water and the generation of waste water, BAT 
+is to reduce the volume and/or pollutant load of waste water streams, to enhance the reuse 
+of waste water within the production pr...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-10: use an integrated waste water
+   Page: 576
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   pollutant, the effects on further treatment, and the receiving environment), and to take 
+appropriate further measures (e.g. control, treat, reuse).  
+Applicability 
+The interim storage of contaminate...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-12: use an appropriate
+   Page: 577
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   action with other substances; contamination of waste water sludge).
+In general, pretreatment is carried out as close as possible to the source in order to avoid 
+dilution, in particular for metals. So...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-13: incorporate the following features in the
+   Page: 572
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   iveness by senior
+management;
+VII.
+following the development of cleaner technologies;
+VIII. consideration for the environmental impacts from the eventual decommissioning of the
+plant at the design sta...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-13: set up and implement a waste management plan as
+   Page: 581
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   Chapter 4 
+Common Waste Water and Waste Gas Treatment/Management Systems in the Chemical Sector
+551 
+4.4 
+Waste 
+BAT 13. 
+In order to prevent or, where this is not practicable, to reduce the quantity ...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-14: as an example of a circular tank);
+   Page: 208
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   nd dose of coagulant used) and on the feed concentration of pollutant(s). 
+Source: [ 3, Environment Agency (England and Wales) 1997 ] 
+The sedimentators (or settlers) commonly operated are: 
+
+sedimen...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-15: enclose the emission sources and to treat the emissions, where
+   Page: 582
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   Chapter 4 
+552 
+ Common Waste Water and Waste Gas Treatment/Management Systems in the Chemical Sector
+4.5 
+Emissions to air 
+4.5.1 
+Waste gas collection 
+BAT 15. 
+In order to facilitate the recovery o...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-16: use an integrated waste gas
+   Page: 582
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   AT is to enclose the emission sources and to treat the emissions, where 
+possible.  
+Applicability 
+The applicability may be restricted by concerns on operability (access to equipment), safety 
+(avoid...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-18: use one or both of the techniques given below.
+   Page: 583
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   Chapter 4 
+Common Waste Water and Waste Gas Treatment/Management Systems in the Chemical Sector
+553 
+BAT 18. 
+In order to reduce emissions to air from flares when flaring is unavoidable, 
+BAT is to us...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-19: use a combination of the techniques given below.
+   Page: 583
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   udes the 
+estimated/measured flare gas composition, the 
+estimated/measured flare gas quantity and the 
+duration of operation. The recording allows for the 
+quantification of emissions and the potenti...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-20: set up, implement and regularly review an odour management plan,
+   Page: 584
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   Chapter 4 
+554 
+ Common Waste Water and Waste Gas Treatment/Management Systems in the Chemical Sector
+4.5.5 
+Odour emissions 
+BAT 20. 
+In order to prevent or, where that is not practicable, to reduce ...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-21: use one or a combination of the techniques given below.
+   Page: 584
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   utions of the sources, and to
+implement prevention and/or reduction measures.
+The associated monitoring is in BAT 6. 
+Applicability 
+The applicability is restricted to cases where odour nuisance can b...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-22: set up and implement a noise management plan, as part of the environmental
+   Page: 585
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   Chapter 4 
+Common Waste Water and Waste Gas Treatment/Management Systems in the Chemical Sector 
+555 
+4.5.6 
+Noise emissions 
+BAT 22. 
+In order to prevent or, where that is not practicable, to reduce ...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-23: use one or a combination of the techniques given below.
+   Page: 585
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   programme designed to identify the source(s), to
+measure/estimate noise exposure, to characterise the contributions of the sources and to
+implement prevention and/or reduction measures.
+Applicability ...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-25: mg/l; the titrimetric method using the Tyndall effect: >
+   Page: 121
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   l. Several 
+international standards for measuring cyanides exist: ISO 6703–1 (1984) describes the 
+determination of total cyanide, ISO 6703–2 (1984) the determination of easily released cyanide, 
+and ...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-33: EJ which was equivalent to
+   Page: 33
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   l 1.7 % which is equivalent to an overall decrease in energy intensity of 
+approximately 55 % [ 15, CEFIC 2012 ]. In 2011, the total final energy consumption in the 
+EU-27 amounted to 46.19 EJ (1 EJ =...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-58: are reported.
+   Page: 258
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   y done in a two-step approach: 
+
+break the refractory compounds into easily degradable compounds;
+
+send this waste water to a downstream (central) biological WWTP.
+Thus performance is not assessed b...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-67: (oxalic acid) to
+   Page: 78
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   Waste Water and Waste Gas Treatment/Management Systems in the Chemical Sector 
+suspended solids (TSS) since TSS removal efficiency affects performance achieved with respect 
+to COD (see Section 2.4.2....
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-75: per kg Pd. Investment costs amount to
+   Page: 275
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   pplicable for the treatment of leachate waters containing 
+heavy metals. 
+Economics 
+The cost of an electrolysis installation is to a great extent determined by the type of electrodes 
+that are used. ...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-75: kWh/kg COD abated were reported, while values of
+   Page: 338
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   –550 kg/t COD (2, 3) 
+0.5–1.9 kg/t COD (4, 5) 
+Nutrients 
+23–42 kg/t COD (3, 6) 
+3–5 kg/t COD (5, 6) 
+Energy (kWh/m3) 
+9.5 (3, 7) 
+0.7–4.0 (5) 
+0.1 kWh per p.e. (8) 
+Energy (kWh/kg COD abated) 
+0.7–33...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-75: vol-% and a max. of
+   Page: 535
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   Waste gas T: 34 °C 
+(moisture content of waste gas: 100 %) 
+Waste gas T: 52 °C 
+(moisture content of waste gas: 100 %) 
+Waste gas T: 252 °C 
+O2 content: 12.71 vol-% (mean value from 
+48 half-hourly av...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-77: vol-%, max of
+   Page: 535
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   t: 12.71 vol-% (mean value from 
+48 half-hourly averages, min. value of 
+11.96 vol-%, max. of 13.3 vol-%) 
+Reference O2 content: No need to 
+standardise emissions. 
+O2 content: 15 vol-% (mean value fr...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-96: vol-%, max. of
+   Page: 535
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   Measured in 2008 
+Measured in 2008 
+Measured in 2008 
+Measured in 2007 
+Flow: 15 200 m3/h 
+Flow: 8 615 m3/h 
+Flow: 4 000 m3/h 
+Main gas flow: 6 850 m3/h 
+Waste gas T: 270 °C 
+Waste gas T: 34 °C 
+(mois...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-299: and Section
+   Page: 533
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   streams may need to be pretreated (e.g. 
+dedusting) before entering the incinerator/oxidiser. Similarly, depending on the pollutants 
+contained in the flue-gas after incineration, further treatment mi...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ NEW-BAT-304: provides an overview of end-of-pipe odour treatment techniques.
+   Page: 565
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   ally when catalysts are used);
+
+the generation of secondary pollutants;
+
+the energy consumption of the techniques;
+
+the technical limits/restrictions for the use of the techniques (e.g. temperature...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+BREF: SA (42 BATs)
+=================================
+
+
+□ SA-BAT-1: and also Section
+   Page: 351
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   the site boundary. 
+ 
+Example plants 
+A rendering plant and a fat melting plant in the UK. Two animal carcass incinerators in Italy. A 
+slaughterhouse and several rendering plants in Germany. 
+ 
+Refer...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-1: elaborate and implement an environmental management system (EMS) that incorporates
+   Page: 441
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   Chapter 5 
+Slaughterhouses, Animal By-products and/or Edible Co-products Industries 
+411 
+5.1 
+General BAT conclusions 
+5.1.1 
+Overall environmental performance 
+BAT 1. 
+In order to improve the overal...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-3.1: of these BAT conclusions.
+   Page: 447
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   ompressed air system leaks;
+-
+lighting management systems;
+-
+energy-efficient lighting;
+-
+optimisation of design and operation of cooling
+system(s).
+Applicability 
+of 
+cogeneration 
+to 
+existing plant...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-2: establish, maintain and regularly review (including when a significant change occurs) an
+   Page: 442
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   the European Union eco-management and audit 
+scheme (EMAS), which is an example of an EMS consistent with this BAT. 
+Applicability 
+The level of detail and the degree of formalisation of the EMS will ...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-2: use both of the techniques given
+   Page: 447
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   f inputs and outputs mentioned in BAT 2.
+(3) This includes combustion (e.g. in thermal oxidisers or steam boilers) of malodorous gases, including
+non-condensable gases.
+(4) The monitoring only applies...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-2: and Section
+   Page: 449
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   tes cleaning. When 
+optimising the design and construction, hygiene 
+requirements are taken into account. 
+Generally applicable 
+k 
+Prompt 
+cleaning of 
+equipment 
+Cleaning is applied as soon as possi...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-3: elaborate and implement a chemicals management system (CMS) as part of the EMS
+   Page: 443
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   Chapter 5 
+Slaughterhouses, Animal By-products and/or Edible Co-products Industries 
+413 
+Applicability 
+The level of detail and the degree of formalisation of the inventory will generally be related ...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-3: and for heavier liquids the formula is d =
+   Page: 529
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   Glossary 
+Slaughterhouses, Animal By-products and/or Edible Co-products Industries 
+499 
+V. 
+Common units, measures and symbols 
+ 
+ 
+bar 
+bar (1.013 bar = 1 atm) 
+Bé 
+(or°B) degree Baumé - a unit of r...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-4: (b) (i) and
+   Page: 29
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   ouncil Directive 
+91/271/EEC2 when the main pollutant load originates from the activities covered by this 
+document. 
+ 
+This document also covers: 
+ 
+• 
+the processing of animal by-products and/or edi...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-4: (b) (i) and/or
+   Page: 433
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   ed that the main pollutant load originates from the activities covered by these BAT 
+conclusions. 
+ 
+ 
+These BAT conclusions also cover the following: 
+ 
+• 
+the processing of animal by-products and/or...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-4: set up and implement a risk-based OTNOC
+   Page: 443
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   lementation of procedures for the procurement, handling, storage
+and use of chemicals to prevent or reduce emissions to the environment.
+Applicability 
+The level of detail and the degree of formalisat...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-5: %), bovine meat (beef and veal) (
+   Page: 207
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   Chapter 3 
+Slaughterhouses, Animal By-products and/or Edible Co-products Industries 
+177 
+3 
+SLAUGHTERHOUSES 
+ 
+3.1 
+General information for slaughterhouses 
+ 
+3.1.1 
+Production of meat and livestock ...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-5: litres per pig (
+   Page: 263
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   nimising waste water 
+contamination in a slaughterhouse [ 42, Tritt W. P. and Schuchardt F. 1992 ]. 
+ 
+Even if blood is collected carefully, i.e. by positioning the animal over the collection pit for ...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-5: W/kg bird. The specific water consumption is
+   Page: 327
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   at touches the shackles which are placed above the bath. In this way, an electric current 
+is led from the electrode to the water, through the head and body of the bird to the feet, from the 
+feet to ...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-5: atmospheres), water boils at
+   Page: 344
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   , fat melting, fishmeal 
+production, to remove water from liquid mixtures. They usually operate at relatively low 
+temperatures and this prevents scorching of the animal by-product being treated. Remo...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-5: monitor key process parameters (e.g. continuous monitoring of waste
+   Page: 444
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   sessment of point v.;
+vii.
+regular testing of backup systems.
+Applicability 
+The level of detail and degree of formalisation of the OTNOC management plan will generally 
+be related to the nature, scal...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-5: °C for cured loin, -
+   Page: 474
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   Chapter 6 
+444 
+Slaughterhouses, Animal By-products and/or Edible Co-products Industries 
+operational temperatures of superchilling are just below the freezing temperature of the products: 
+e.g. -2 °C...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-6: monitor at least once per year:
+   Page: 444
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   For waste water streams identified by the inventory of inputs and outputs 
+(see BAT 2), BAT is to monitor key process parameters (e.g. continuous monitoring of waste 
+water flow, pH and temperature) a...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-6: use technique (a) and one or both of the techniques (b) and (c) given below.
+   Page: 458
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   specific
+waste water discharge includes water used by FDM activities.
+(4) The upper end of the BAT-AEPL range may be higher and up to 2.45 m3/animal in case the specific waste water
+discharge includes...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-7: metres wide and
+   Page: 257
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   nger than 6 minutes damages the skin. Lime salts 
+or a depilatory agent, such as sodium borohydride, may be added to the water to facilitate 
+loosening of the hair. A flap placed at the exit of the sc...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-7: kg per head (
+   Page: 294
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   spillage, much of which inevitably ends up in the waste water. The hide/skin quality 
+is at least as good as before. The need for energy use to chill the hide room is avoided. 
+ 
+Environmental perform...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-7: monitor emissions to water with at least the frequency given below
+   Page: 445
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   Chapter 5 
+Slaughterhouses, Animal By-products and/or Edible Co-products Industries 
+415 
+BAT 7. 
+BAT is to monitor emissions to water with at least the frequency given below 
+and in accordance with E...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-8: monitor channelled emissions to air with at least the frequency given
+   Page: 446
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   Chapter 5 
+416 
+Slaughterhouses, Animal By-products and/or Edible Co-products Industries 
+BAT 8. 
+BAT is to monitor channelled emissions to air with at least the frequency given 
+below and in accordan...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-8: use ISO, national or other international standards that ensure the provision of data of an
+   Page: 446
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   Chapter 5 
+416 
+Slaughterhouses, Animal By-products and/or Edible Co-products Industries 
+BAT 8. 
+BAT is to monitor channelled emissions to air with at least the frequency given 
+below and in accordan...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-8: set up, implement and regularly review a noise management plan, as
+   Page: 454
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   ive emission level for channelled CO emissions to air from the combustion 
+in thermal oxidisers of malodorous gases, including non-condensable gases 
+Substance 
+Unit 
+Indicative emission level (averag...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-9: %), and sheep and goat meat (
+   Page: 207
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   Chapter 3 
+Slaughterhouses, Animal By-products and/or Edible Co-products Industries 
+177 
+3 
+SLAUGHTERHOUSES 
+ 
+3.1 
+General information for slaughterhouses 
+ 
+3.1.1 
+Production of meat and livestock ...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-10: use both techniques (a) and (b), and an appropriate combination of the
+   Page: 448
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   Chapter 5 
+418 
+Slaughterhouses, Animal By-products and/or Edible Co-products Industries 
+5.1.4 
+Water consumption and waste water generation 
+BAT 10. 
+In order to reduce water consumption and the amo...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-10: use both techniques (a) and
+   Page: 449
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   f cleaning 
+chemicals in cleaning-in-
+place (CIP) 
+Collection and reuse of cleaning chemicals in CIP. When reusing 
+cleaning chemicals, hygiene and food safety requirements are taken 
+into account. 
+c...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-11: use one or a combination of the
+   Page: 449
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   se of 
+equipment to prevent hardening of residual material.  
+Further sector-specific techniques to reduce water consumption and the volume of waste water 
+generated are given in Section 5.2.2 and Sec...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-14: use an appropriate
+   Page: 451
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   Chapter 5 
+Slaughterhouses, Animal By-products and/or Edible Co-products Industries 
+421 
+BAT 14. 
+In order to reduce emissions to water, BAT is to use an appropriate 
+combination of the techniques gi...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-15: use technique (a) and one or an appropriate combination of
+   Page: 453
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   Chapter 5 
+Slaughterhouses, Animal By-products and/or Edible Co-products Industries 
+423 
+5.1.8 
+Emissions to air 
+BAT 15. 
+In order to reduce emissions to air of CO, dust, NOX and SOX from the 
+combu...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-17: use one or a combination of the techniques given below.
+   Page: 454
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   ntify the source(s), to measure/estimate noise
+exposure, to characterise the contributions of the sources and to implement prevention
+and/or reduction measures.
+Applicability 
+The applicability is res...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-18: set up, implement and regularly review an odour management plan, as
+   Page: 455
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   ulation of equipment;
+iii.
+enclosure of noisy equipment;
+iv.
+soundproofing of buildings.
+May not be applicable to 
+existing plants due to lack of 
+space. 
+e 
+Noise abatement 
+Inserting obstacles betwe...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-19: use an appropriate combination of the techniques given below.
+   Page: 455
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   ify the source(s); to
+measure/estimate odour exposure; to characterise the contributions of the sources; and to
+implement prevention and/or reduction measures.
+Applicability 
+The applicability is rest...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-20: use refrigerants
+   Page: 456
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   Chapter 5 
+426 
+Slaughterhouses, Animal By-products and/or Edible Co-products Industries 
+BAT-AELs for channelled emissions to air of odour: see Table 5.10 and Table 5.11. 
+5.1.11 
+Use of refrigerants...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-21: use both of the techniques given
+   Page: 457
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   Chapter 5 
+Slaughterhouses, Animal By-products and/or Edible Co-products Industries 
+427 
+5.2 
+BAT conclusions for slaughterhouses 
+The BAT conclusions in this section apply in addition to the general...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-22: use both techniques (a) and (b) given in BAT 10, together with an
+   Page: 458
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   Chapter 5 
+428 
+Slaughterhouses, Animal By-products and/or Edible Co-products Industries 
+5.2.2 
+Water consumption and waste water generation 
+BAT 22. 
+In order to reduce water consumption and the amo...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-24: use both of the techniques
+   Page: 460
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   Chapter 5 
+430 
+Slaughterhouses, Animal By-products and/or Edible Co-products Industries 
+5.3 
+BAT conclusions for installations processing animal by-
+products and/or edible co-products 
+The BAT concl...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-25: use one or a combination of the techniques
+   Page: 461
+   Extraction: Generic pattern: BAT\s+is\s+to\s+([^\n]+)...
+   
+   Raw Text (first 200 chars):
+   Chapter 5 
+Slaughterhouses, Animal By-products and/or Edible Co-products Industries 
+431 
+5.3.3 
+Emissions to air 
+BAT 25. 
+In order to reduce emissions to air of organic compounds and malodorous 
+com...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-26: kWh per pig, with an average of
+   Page: 177
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   Chapter 2 
+Slaughterhouses, Animal By-products and/or Edible Co-products Industries 
+147 
+amounting to between 0.11 kWh and 0.26 kWh per pig, with an average of 0.19 kWh per pig 
+(calculated 
+from 
+da...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-35: kWh per pig (from
+   Page: 119
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   For a scalding tank with a capacity to handle 210 pigs per hour, with the dimensions of: length 
+approximately 43 meters, area of sides and bottom about 100 m2 and surface area 22 m2, the 
+following d...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ SA-BAT-348: mg/l for zinc and
+   Page: 218
+   Extraction: Generic pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   ripe and casings washing 
+[ 1, EPA 1996 ]. Those operations which emit manure and partly digested feed are increasingly 
+believed to be significant sources of phosphorus emissions [ 77, Pontoppidan O....
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+BREF: WI (2 BATs)
+=================================
+
+
+□ WI-BAT-2: 12.2019
+   Page: 22
+   Extraction: WI pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   ar lucht van de verwerking van slakken en bodemas in 
+afgesloten omgevingen met luchtafzuiging (zie BBT 24, onder f)) te verminderen, is om de afgezogen lucht met 
+een doekenfilter te behandelen (zie ...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+□ WI-BAT-12: 12.2019
+   Page: 2
+   Extraction: WI pattern: (\d+\.\d+)\s+([^0-9\n]+?)(?=\d...
+   
+   Raw Text (first 200 chars):
+   arge Combustion Plants); 
+— gemeenschappelijke afvalwater- en afvalgasverwerkings-/beheersystemen in de chemiesector (CWW: Common Waste 
+Water and Waste Gas Treatment/Management Systems in the Chemica...
+   
+   VALIDATION:
+   □ BAT number correct
+   □ Title accurate
+   □ Text complete
+   □ Page reference correct
+   □ References resolved (if any)
+   
+   Comments: ________________________________
+   
+   Quality: ⭐⭐⭐⭐⭐ (1-5 stars)
+   
+---------------------------------------------------
+
+
+SUMMARY VALIDATION:
+==================
+
+Total BATs reviewed: 177
+
+BREF COMPLETION STATUS:
+□ ICS: 24 BATs - Complete/Incomplete/Needs Review
+□ ENE: 29 BATs - Complete/Incomplete/Needs Review
+□ CVS: 18 BATs - Complete/Incomplete/Needs Review
+□ OFC: 1 BATs - Complete/Incomplete/Needs Review
+□ NEW: 61 BATs - Complete/Incomplete/Needs Review
+□ SA: 42 BATs - Complete/Incomplete/Needs Review
+□ WI: 2 BATs - Complete/Incomplete/Needs Review
+
+
+OVERALL ASSESSMENT:
+□ Extraction quality is acceptable
+□ Ready for integration into compliance system
+□ Needs corrections (specify below)
+
+CORRECTIONS NEEDED:
+_________________________________________________________________
+_________________________________________________________________
+_________________________________________________________________
+
+NEXT STEPS:
+□ Validate against source BREF documents
+□ Correct any extraction errors
+□ Include missing referenced sections
+□ Integrate validated BATs into compliance system
+
+Reviewer: _____________________ Date: ______________

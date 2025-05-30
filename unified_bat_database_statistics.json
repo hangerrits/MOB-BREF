@@ -1,0 +1,135 @@
+{
+  "total_documents": 24,
+  "total_techniques": 872,
+  "dutch_bbts": {
+    "documents": 19,
+    "total_bbts": 821,
+    "with_tables": 192
+  },
+  "english_bats": {
+    "documents": 5,
+    "total_bats": 51,
+    "with_tables": 0
+  },
+  "coverage_analysis": {
+    "chemical": {
+      "dutch_documents": [
+        "CAK",
+        "CLM",
+        "LVOC"
+      ],
+      "english_documents": [
+        "LVIC-S",
+        "POL"
+      ],
+      "dutch_bbts": 21,
+      "english_bats": 19,
+      "total_techniques": 40
+    },
+    "metals": {
+      "dutch_documents": [
+        "FDM",
+        "FMP",
+        "IRPP",
+        "IS",
+        "NFM",
+        "SF"
+      ],
+      "english_documents": [],
+      "dutch_bbts": 310,
+      "english_bats": 0,
+      "total_techniques": 310
+    },
+    "waste": {
+      "dutch_documents": [
+        "CWW",
+        "WBP",
+        "WGC",
+        "WI",
+        "WT"
+      ],
+      "english_documents": [],
+      "dutch_bbts": 163,
+      "english_bats": 0,
+      "total_techniques": 163
+    },
+    "energy": {
+      "dutch_documents": [],
+      "english_documents": [
+        "ENE"
+      ],
+      "dutch_bbts": 0,
+      "english_bats": 29,
+      "total_techniques": 29
+    },
+    "manufacturing": {
+      "dutch_documents": [
+        "TXT",
+        "PP"
+      ],
+      "english_documents": [],
+      "dutch_bbts": 197,
+      "english_bats": 0,
+      "total_techniques": 197
+    },
+    "treatment": {
+      "dutch_documents": [
+        "STS"
+      ],
+      "english_documents": [],
+      "dutch_bbts": 52,
+      "english_bats": 0,
+      "total_techniques": 52
+    },
+    "food": {
+      "dutch_documents": [
+        "SA"
+      ],
+      "english_documents": [],
+      "dutch_bbts": 25,
+      "english_bats": 0,
+      "total_techniques": 25
+    },
+    "oil": {
+      "dutch_documents": [
+        "REF"
+      ],
+      "english_documents": [],
+      "dutch_bbts": 53,
+      "english_bats": 0,
+      "total_techniques": 53
+    },
+    "monitoring": {
+      "dutch_documents": [],
+      "english_documents": [],
+      "dutch_bbts": 0,
+      "english_bats": 0,
+      "total_techniques": 0
+    },
+    "cooling": {
+      "dutch_documents": [],
+      "english_documents": [
+        "ICS"
+      ],
+      "dutch_bbts": 0,
+      "english_bats": 2,
+      "total_techniques": 2
+    },
+    "feed": {
+      "dutch_documents": [],
+      "english_documents": [
+        "EFS"
+      ],
+      "dutch_bbts": 0,
+      "english_bats": 1,
+      "total_techniques": 1
+    },
+    "economics": {
+      "dutch_documents": [],
+      "english_documents": [],
+      "dutch_bbts": 0,
+      "english_bats": 0,
+      "total_techniques": 0
+    }
+  }
+}

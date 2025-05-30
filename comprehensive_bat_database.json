@@ -1,0 +1,302 @@
+{
+  "metadata": {
+    "extraction_date": "2025-05-30T07:42:48.458882",
+    "total_bats": 26,
+    "brefs_processed": [
+      "ENE"
+    ],
+    "extractor_version": "ComprehensiveBATExtractor v1.0"
+  },
+  "bats": [
+    {
+      "bref_id": "ENE",
+      "bat_number": 1,
+      "bat_id": "ENE-BAT-1",
+      "title": "ENEMS",
+      "raw_text": "Chapter 4 \n272 \nEnergy Efficiency \nBAT 1: ENEMS\nExisting installations\n(a) commitment of top\nmanagement\n(b) definition of an energy\nefficiency policy\n(c) planning and establishing\nobjectives and targets\n(d) implementation and operation\nof procedures\n(e) benchmarking\n(f) checking performance and\ntaking corrective action\n(g) review of the ENEMS\n(j) when designing a new unit,\ntaking into account the\nenvironmental impact from the\neventual decommissioning of the\nunit\nUpgrading existing installations \nor new installations\n(k) development of energy",
+      "page": 303,
+      "section_references": [
+        "chapter 4"
+      ],
+      "extraction_date": "2025-05-30T07:42:47.695650",
+      "complete_text": "Chapter 4 \n272 \nEnergy Efficiency \nBAT 1: ENEMS\nExisting installations\n(a) commitment of top\nmanagement\n(b) definition of an energy\nefficiency policy\n(c) planning and establishing\nobjectives and targets\n(d) implementation and operation\nof procedures\n(e) benchmarking\n(f) checking performance and\ntaking corrective action\n(g) review of the ENEMS\n(j) when designing a new unit,\ntaking into account the\nenvironmental impact from the\neventual decommissioning of the\nunit\nUpgrading existing installations \nor new installations\n(k) development of energy\n\n--- REFERENCED CHAPTER 4 ---\nused are discussed in the appropriate \nvertical BREFs. \nBest available techniques\nThe BAT chapter (Chapter 4) identifies those techniques considered to be BAT at a European \nlevel, based on the information in Chapters 2 and 3. The following text is a summary of this \nBAT chapter, and the full chapter remains the definitive text for BAT conclusions. \nNo associated energy savings or efficiency values could be derived and/or agreed for \nthis horizontal document. Process-specific BAT for energy efficiency and associated \nenergy consumption levels are given in the appropriate sector-specific (vertical) BREFs. \nBAT for a specific installation is therefore a combination of the specific BAT in the \nrelevant sector BREFs, specific BAT for associated activities that may be found in other \nvertical BREFs (such as the LCP BREF for combustion and steam), and the generic BAT \npresented in this document.  \nThe purpose of the IPPC Directive is to achieve integrated prevention and control of pollution, \nleading to a high level of protection of the environment as a whole, including the \nenergy effici"
+    },
+    {
+      "bref_id": "ENE",
+      "bat_number": 2,
+      "bat_id": "ENE-BAT-2",
+      "title": "continuous environmental improvement",
+      "raw_text": "unit\nUpgrading existing installations \nor new installations\n(k) development of energy-efficient\ntechnologies, and to follow\ndevelopments in ENE technologies\nBAT 1(c): Planning objectives and targets\nBAT 2: continuous environmental improvement\nBAT 3: carry out an ENE audit \nBAT 4: audit to identify ENE aspects and options\nBAT 5: use appropriate tools for BAT 4\nBAT 6: identify opportunities to optimise energy\nrecovery (including cogeneration)\nBAT 7: take a systems approach\nBAT 11: seek ENE by process integration\nBAT 1(e): Benchmarking and comparisons\nBAT 8: establish ENE indicators\nBAT 9: carry out systematic comparisons\nBAT 17: 4.3.1  Combustion \nBAT 18: 4.3.2  Steam systems\nBAT 19: 4.3.3  Heat recovery \nBAT 20: 4.3.4  Cogeneration",
+      "page": 303,
+      "section_references": [],
+      "extraction_date": "2025-05-30T07:42:47.695681",
+      "complete_text": "unit\nUpgrading existing installations \nor new installations\n(k) development of energy-efficient\ntechnologies, and to follow\ndevelopments in ENE technologies\nBAT 1(c): Planning objectives and targets\nBAT 2: continuous environmental improvement\nBAT 3: carry out an ENE audit \nBAT 4: audit to identify ENE aspects and options\nBAT 5: use appropriate tools for BAT 4\nBAT 6: identify opportunities to optimise energy\nrecovery (including cogeneration)\nBAT 7: take a systems approach\nBAT 11: seek ENE by process integration\nBAT 1(e): Benchmarking and comparisons\nBAT 8: establish ENE indicators\nBAT 9: carry out systematic comparisons\nBAT 17: 4.3.1  Combustion \nBAT 18: 4.3.2  Steam systems\nBAT 19: 4.3.3  Heat recovery \nBAT 20: 4.3.4  Cogeneration"
+    },
+    {
+      "bref_id": "ENE",
+      "bat_number": 3,
+      "bat_id": "ENE-BAT-3",
+      "title": "carry out an ENE audit",
+      "raw_text": "ew installations\n(k) development of energy-efficient\ntechnologies, and to follow\ndevelopments in ENE technologies\nBAT 1(c): Planning objectives and targets\nBAT 2: continuous environmental improvement\nBAT 3: carry out an ENE audit \nBAT 4: audit to identify ENE aspects and options\nBAT 5: use appropriate tools for BAT 4\nBAT 6: identify opportunities to optimise energy\nrecovery (including cogeneration)\nBAT 7: take a systems approach\nBAT 11: seek ENE by process integration\nBAT 1(e): Benchmarking and comparisons\nBAT 8: establish ENE indicators\nBAT 9: carry out systematic comparisons\nBAT 17: 4.3.1  Combustion \nBAT 18: 4.3.2  Steam systems\nBAT 19: 4.3.3  Heat recovery \nBAT 20: 4.3.4  Cogeneration \nBAT 21, 22, and 23: \n4.3.5  Ele",
+      "page": 303,
+      "section_references": [],
+      "extraction_date": "2025-05-30T07:42:47.695703",
+      "complete_text": "ew installations\n(k) development of energy-efficient\ntechnologies, and to follow\ndevelopments in ENE technologies\nBAT 1(c): Planning objectives and targets\nBAT 2: continuous environmental improvement\nBAT 3: carry out an ENE audit \nBAT 4: audit to identify ENE aspects and options\nBAT 5: use appropriate tools for BAT 4\nBAT 6: identify opportunities to optimise energy\nrecovery (including cogeneration)\nBAT 7: take a systems approach\nBAT 11: seek ENE by process integration\nBAT 1(e): Benchmarking and comparisons\nBAT 8: establish ENE indicators\nBAT 9: carry out systematic comparisons\nBAT 17: 4.3.1  Combustion \nBAT 18: 4.3.2  Steam systems\nBAT 19: 4.3.3  Heat recovery \nBAT 20: 4.3.4  Cogeneration \nBAT 21, 22, and 23: \n4.3.5  Ele"
+    },
+    {
+      "bref_id": "ENE",
+      "bat_number": 4,
+      "bat_id": "ENE-BAT-4",
+      "title": "audit to identify ENE aspects and options",
+      "raw_text": "t of energy-efficient\ntechnologies, and to follow\ndevelopments in ENE technologies\nBAT 1(c): Planning objectives and targets\nBAT 2: continuous environmental improvement\nBAT 3: carry out an ENE audit \nBAT 4: audit to identify ENE aspects and options\nBAT 5: use appropriate tools for BAT 4\nBAT 6: identify opportunities to optimise energy\nrecovery (including cogeneration)\nBAT 7: take a systems approach\nBAT 11: seek ENE by process integration\nBAT 1(e): Benchmarking and comparisons\nBAT 8: establish ENE indicators\nBAT 9: carry out systematic comparisons\nBAT 17: 4.3.1  Combustion \nBAT 18: 4.3.2  Steam systems\nBAT 19: 4.3.3  Heat recovery \nBAT 20: 4.3.4  Cogeneration \nBAT 21, 22, and 23: \n4.3.5  Electric power supply \nBAT 24:  4.3.6  Electric-moto",
+      "page": 303,
+      "section_references": [],
+      "extraction_date": "2025-05-30T07:42:47.695723",
+      "complete_text": "t of energy-efficient\ntechnologies, and to follow\ndevelopments in ENE technologies\nBAT 1(c): Planning objectives and targets\nBAT 2: continuous environmental improvement\nBAT 3: carry out an ENE audit \nBAT 4: audit to identify ENE aspects and options\nBAT 5: use appropriate tools for BAT 4\nBAT 6: identify opportunities to optimise energy\nrecovery (including cogeneration)\nBAT 7: take a systems approach\nBAT 11: seek ENE by process integration\nBAT 1(e): Benchmarking and comparisons\nBAT 8: establish ENE indicators\nBAT 9: carry out systematic comparisons\nBAT 17: 4.3.1  Combustion \nBAT 18: 4.3.2  Steam systems\nBAT 19: 4.3.3  Heat recovery \nBAT 20: 4.3.4  Cogeneration \nBAT 21, 22, and 23: \n4.3.5  Electric power supply \nBAT 24:  4.3.6  Electric-moto"
+    },
+    {
+      "bref_id": "ENE",
+      "bat_number": 5,
+      "bat_id": "ENE-BAT-5",
+      "title": "use appropriate tools for BAT 4",
+      "raw_text": "developments in ENE technologies\nBAT 1(c): Planning objectives and targets\nBAT 2: continuous environmental improvement\nBAT 3: carry out an ENE audit \nBAT 4: audit to identify ENE aspects and options\nBAT 5: use appropriate tools for BAT 4\nBAT 6: identify opportunities to optimise energy\nrecovery (including cogeneration)\nBAT 7: take a systems approach\nBAT 11: seek ENE by process integration\nBAT 1(e): Benchmarking and comparisons\nBAT 8: establish ENE indicators\nBAT 9: carry out systematic comparisons\nBAT 17: 4.3.1  Combustion \nBAT 18: 4.3.2  Steam systems\nBAT 19: 4.3.3  Heat recovery \nBAT 20: 4.3.4  Cogeneration \nBAT 21, 22, and 23: \n4.3.5  Electric power supply \nBAT 24:  4.3.6  Electric-motor-driven\nsubsystems \nBAT 25: 4.3.7  Com",
+      "page": 303,
+      "section_references": [],
+      "extraction_date": "2025-05-30T07:42:47.695744",
+      "complete_text": "developments in ENE technologies\nBAT 1(c): Planning objectives and targets\nBAT 2: continuous environmental improvement\nBAT 3: carry out an ENE audit \nBAT 4: audit to identify ENE aspects and options\nBAT 5: use appropriate tools for BAT 4\nBAT 6: identify opportunities to optimise energy\nrecovery (including cogeneration)\nBAT 7: take a systems approach\nBAT 11: seek ENE by process integration\nBAT 1(e): Benchmarking and comparisons\nBAT 8: establish ENE indicators\nBAT 9: carry out systematic comparisons\nBAT 17: 4.3.1  Combustion \nBAT 18: 4.3.2  Steam systems\nBAT 19: 4.3.3  Heat recovery \nBAT 20: 4.3.4  Cogeneration \nBAT 21, 22, and 23: \n4.3.5  Electric power supply \nBAT 24:  4.3.6  Electric-motor-driven\nsubsystems \nBAT 25: 4.3.7  Com"
+    },
+    {
+      "bref_id": "ENE",
+      "bat_number": 6,
+      "bat_id": "ENE-BAT-6",
+      "title": "identify opportunities to optimise energy",
+      "raw_text": "(c): Planning objectives and targets\nBAT 2: continuous environmental improvement\nBAT 3: carry out an ENE audit \nBAT 4: audit to identify ENE aspects and options\nBAT 5: use appropriate tools for BAT 4\nBAT 6: identify opportunities to optimise energy\nrecovery (including cogeneration)\nBAT 7: take a systems approach\nBAT 11: seek ENE by process integration\nBAT 1(e): Benchmarking and comparisons\nBAT 8: establish ENE indicators\nBAT 9: carry out systematic comparisons\nBAT 17: 4.3.1  Combustion \nBAT 18: 4.3.2  Steam systems\nBAT 19: 4.3.3  Heat recovery \nBAT 20: 4.3.4  Cogeneration \nBAT 21, 22, and 23: \n4.3.5  Electric power supply \nBAT 24:  4.3.6  Electric-motor-driven\nsubsystems \nBAT 25: 4.3.7  Compressed air systems\nBAT 26: 4.3.8  Pumping system",
+      "page": 303,
+      "section_references": [],
+      "extraction_date": "2025-05-30T07:42:47.695764",
+      "complete_text": "(c): Planning objectives and targets\nBAT 2: continuous environmental improvement\nBAT 3: carry out an ENE audit \nBAT 4: audit to identify ENE aspects and options\nBAT 5: use appropriate tools for BAT 4\nBAT 6: identify opportunities to optimise energy\nrecovery (including cogeneration)\nBAT 7: take a systems approach\nBAT 11: seek ENE by process integration\nBAT 1(e): Benchmarking and comparisons\nBAT 8: establish ENE indicators\nBAT 9: carry out systematic comparisons\nBAT 17: 4.3.1  Combustion \nBAT 18: 4.3.2  Steam systems\nBAT 19: 4.3.3  Heat recovery \nBAT 20: 4.3.4  Cogeneration \nBAT 21, 22, and 23: \n4.3.5  Electric power supply \nBAT 24:  4.3.6  Electric-motor-driven\nsubsystems \nBAT 25: 4.3.7  Compressed air systems\nBAT 26: 4.3.8  Pumping system"
+    },
+    {
+      "bref_id": "ENE",
+      "bat_number": 7,
+      "bat_id": "ENE-BAT-7",
+      "title": "take a systems approach",
+      "raw_text": "T 3: carry out an ENE audit \nBAT 4: audit to identify ENE aspects and options\nBAT 5: use appropriate tools for BAT 4\nBAT 6: identify opportunities to optimise energy\nrecovery (including cogeneration)\nBAT 7: take a systems approach\nBAT 11: seek ENE by process integration\nBAT 1(e): Benchmarking and comparisons\nBAT 8: establish ENE indicators\nBAT 9: carry out systematic comparisons\nBAT 17: 4.3.1  Combustion \nBAT 18: 4.3.2  Steam systems\nBAT 19: 4.3.3  Heat recovery \nBAT 20: 4.3.4  Cogeneration \nBAT 21, 22, and 23: \n4.3.5  Electric power supply \nBAT 24:  4.3.6  Electric-motor-driven\nsubsystems \nBAT 25: 4.3.7  Compressed air systems\nBAT 26: 4.3.8  Pumping systems \nBAT 27: 4.3.9 HVAC (heating, \nventilation, air conditioning)\nB",
+      "page": 303,
+      "section_references": [],
+      "extraction_date": "2025-05-30T07:42:47.695784",
+      "complete_text": "T 3: carry out an ENE audit \nBAT 4: audit to identify ENE aspects and options\nBAT 5: use appropriate tools for BAT 4\nBAT 6: identify opportunities to optimise energy\nrecovery (including cogeneration)\nBAT 7: take a systems approach\nBAT 11: seek ENE by process integration\nBAT 1(e): Benchmarking and comparisons\nBAT 8: establish ENE indicators\nBAT 9: carry out systematic comparisons\nBAT 17: 4.3.1  Combustion \nBAT 18: 4.3.2  Steam systems\nBAT 19: 4.3.3  Heat recovery \nBAT 20: 4.3.4  Cogeneration \nBAT 21, 22, and 23: \n4.3.5  Electric power supply \nBAT 24:  4.3.6  Electric-motor-driven\nsubsystems \nBAT 25: 4.3.7  Compressed air systems\nBAT 26: 4.3.8  Pumping systems \nBAT 27: 4.3.9 HVAC (heating, \nventilation, air conditioning)\nB"
+    },
+    {
+      "bref_id": "ENE",
+      "bat_number": 8,
+      "bat_id": "ENE-BAT-8",
+      "title": "establish ENE indicators",
+      "raw_text": "BAT 4\nBAT 6: identify opportunities to optimise energy\nrecovery (including cogeneration)\nBAT 7: take a systems approach\nBAT 11: seek ENE by process integration\nBAT 1(e): Benchmarking and comparisons\nBAT 8: establish ENE indicators\nBAT 9: carry out systematic comparisons\nBAT 17: 4.3.1  Combustion \nBAT 18: 4.3.2  Steam systems\nBAT 19: 4.3.3  Heat recovery \nBAT 20: 4.3.4  Cogeneration \nBAT 21, 22, and 23: \n4.3.5  Electric power supply \nBAT 24:  4.3.6  Electric-motor-driven\nsubsystems \nBAT 25: 4.3.7  Compressed air systems\nBAT 26: 4.3.8  Pumping systems \nBAT 27: 4.3.9 HVAC (heating, \nventilation, air conditioning)\nBAT 28: 4.3.10 Lighting systems\nBAT 29: 4.3.11  Drying and separation \nBAT1(k): development of ENE technologies",
+      "page": 303,
+      "section_references": [],
+      "extraction_date": "2025-05-30T07:42:47.695824",
+      "complete_text": "BAT 4\nBAT 6: identify opportunities to optimise energy\nrecovery (including cogeneration)\nBAT 7: take a systems approach\nBAT 11: seek ENE by process integration\nBAT 1(e): Benchmarking and comparisons\nBAT 8: establish ENE indicators\nBAT 9: carry out systematic comparisons\nBAT 17: 4.3.1  Combustion \nBAT 18: 4.3.2  Steam systems\nBAT 19: 4.3.3  Heat recovery \nBAT 20: 4.3.4  Cogeneration \nBAT 21, 22, and 23: \n4.3.5  Electric power supply \nBAT 24:  4.3.6  Electric-motor-driven\nsubsystems \nBAT 25: 4.3.7  Compressed air systems\nBAT 26: 4.3.8  Pumping systems \nBAT 27: 4.3.9 HVAC (heating, \nventilation, air conditioning)\nBAT 28: 4.3.10 Lighting systems\nBAT 29: 4.3.11  Drying and separation \nBAT1(k): development of ENE technologies"
+    },
+    {
+      "bref_id": "ENE",
+      "bat_number": 9,
+      "bat_id": "ENE-BAT-9",
+      "title": "carry out systematic comparisons",
+      "raw_text": "ties to optimise energy\nrecovery (including cogeneration)\nBAT 7: take a systems approach\nBAT 11: seek ENE by process integration\nBAT 1(e): Benchmarking and comparisons\nBAT 8: establish ENE indicators\nBAT 9: carry out systematic comparisons\nBAT 17: 4.3.1  Combustion \nBAT 18: 4.3.2  Steam systems\nBAT 19: 4.3.3  Heat recovery \nBAT 20: 4.3.4  Cogeneration \nBAT 21, 22, and 23: \n4.3.5  Electric power supply \nBAT 24:  4.3.6  Electric-motor-driven\nsubsystems \nBAT 25: 4.3.7  Compressed air systems\nBAT 26: 4.3.8  Pumping systems \nBAT 27: 4.3.9 HVAC (heating, \nventilation, air conditioning)\nBAT 28: 4.3.10 Lighting systems\nBAT 29: 4.3.11  Drying and separation \nBAT1(k): development of ENE technologies\nBAT 7: take a systems approach to ENE\nBA",
+      "page": 303,
+      "section_references": [],
+      "extraction_date": "2025-05-30T07:42:47.695843",
+      "complete_text": "ties to optimise energy\nrecovery (including cogeneration)\nBAT 7: take a systems approach\nBAT 11: seek ENE by process integration\nBAT 1(e): Benchmarking and comparisons\nBAT 8: establish ENE indicators\nBAT 9: carry out systematic comparisons\nBAT 17: 4.3.1  Combustion \nBAT 18: 4.3.2  Steam systems\nBAT 19: 4.3.3  Heat recovery \nBAT 20: 4.3.4  Cogeneration \nBAT 21, 22, and 23: \n4.3.5  Electric power supply \nBAT 24:  4.3.6  Electric-motor-driven\nsubsystems \nBAT 25: 4.3.7  Compressed air systems\nBAT 26: 4.3.8  Pumping systems \nBAT 27: 4.3.9 HVAC (heating, \nventilation, air conditioning)\nBAT 28: 4.3.10 Lighting systems\nBAT 29: 4.3.11  Drying and separation \nBAT1(k): development of ENE technologies\nBAT 7: take a systems approach to ENE\nBA"
+    },
+    {
+      "bref_id": "ENE",
+      "bat_number": 10,
+      "bat_id": "ENE-BAT-10",
+      "title": "ENE Design (EED) including developing",
+      "raw_text": "0 Lighting systems\nBAT 29: 4.3.11  Drying and separation \nBAT1(k): development of ENE technologies\nBAT 7: take a systems approach to ENE\nBAT 6: identify opportunities to optimise energy\n     recovery\nBAT 10: ENE Design (EED) including developing \nor selecting  ENE technologies\nBAT 11:  seek ENE by process integration\nBAT 1(d): Procedures\n1) structure and responsibility\n2) BAT 13: training, awareness and competence\n3) communication\n4) employee involvement\n5) documentation\n6) BAT 14: efficient control of processes\n7) BAT 15: maintenance\n8) emergency preparedness and response\n9) safeguarding compliance with energy efficiency-\nrelated legislation and agreements\nBAT 1(f) checking performance\n1) BAT 16: monitoring and measurement\n2) correctiv",
+      "page": 303,
+      "section_references": [],
+      "extraction_date": "2025-05-30T07:42:47.696121",
+      "complete_text": "0 Lighting systems\nBAT 29: 4.3.11  Drying and separation \nBAT1(k): development of ENE technologies\nBAT 7: take a systems approach to ENE\nBAT 6: identify opportunities to optimise energy\n     recovery\nBAT 10: ENE Design (EED) including developing \nor selecting  ENE technologies\nBAT 11:  seek ENE by process integration\nBAT 1(d): Procedures\n1) structure and responsibility\n2) BAT 13: training, awareness and competence\n3) communication\n4) employee involvement\n5) documentation\n6) BAT 14: efficient control of processes\n7) BAT 15: maintenance\n8) emergency preparedness and response\n9) safeguarding compliance with energy efficiency-\nrelated legislation and agreements\nBAT 1(f) checking performance\n1) BAT 16: monitoring and measurement\n2) correctiv"
+    },
+    {
+      "bref_id": "ENE",
+      "bat_number": 11,
+      "bat_id": "ENE-BAT-11",
+      "title": "seek ENE by process integration",
+      "raw_text": "T 4: audit to identify ENE aspects and options\nBAT 5: use appropriate tools for BAT 4\nBAT 6: identify opportunities to optimise energy\nrecovery (including cogeneration)\nBAT 7: take a systems approach\nBAT 11: seek ENE by process integration\nBAT 1(e): Benchmarking and comparisons\nBAT 8: establish ENE indicators\nBAT 9: carry out systematic comparisons\nBAT 17: 4.3.1  Combustion \nBAT 18: 4.3.2  Steam systems\nBAT 19: 4.3.3  Heat recovery \nBAT 20: 4.3.4  Cogeneration \nBAT 21, 22, and 23: \n4.3.5  Electric power supply \nBAT 24:  4.3.6  Electric-motor-driven\nsubsystems \nBAT 25: 4.3.7  Compressed air systems\nBAT 26: 4.3.8  Pumping systems \nBAT 27: 4.3.9 HVAC (heating, \nventilation, air conditioning)\nBAT 28: 4.3.10 Lighting systems\nBAT 29: 4",
+      "page": 303,
+      "section_references": [],
+      "extraction_date": "2025-05-30T07:42:47.695803",
+      "complete_text": "T 4: audit to identify ENE aspects and options\nBAT 5: use appropriate tools for BAT 4\nBAT 6: identify opportunities to optimise energy\nrecovery (including cogeneration)\nBAT 7: take a systems approach\nBAT 11: seek ENE by process integration\nBAT 1(e): Benchmarking and comparisons\nBAT 8: establish ENE indicators\nBAT 9: carry out systematic comparisons\nBAT 17: 4.3.1  Combustion \nBAT 18: 4.3.2  Steam systems\nBAT 19: 4.3.3  Heat recovery \nBAT 20: 4.3.4  Cogeneration \nBAT 21, 22, and 23: \n4.3.5  Electric power supply \nBAT 24:  4.3.6  Electric-motor-driven\nsubsystems \nBAT 25: 4.3.7  Compressed air systems\nBAT 26: 4.3.8  Pumping systems \nBAT 27: 4.3.9 HVAC (heating, \nventilation, air conditioning)\nBAT 28: 4.3.10 Lighting systems\nBAT 29: 4"
+    },
+    {
+      "bref_id": "ENE",
+      "bat_number": 12,
+      "bat_id": "ENE-BAT-12",
+      "title": "Maintaining impetus",
+      "raw_text": "a and techniques in other vertical \nBREFs  for associated activities such as: \nLCP for combustion and steam\nWI for on-site incinerator\nWT: e.g. preparation of wastes as fuels\nBAT 1(g) review of ENEMS\nBAT 12: Maintaining impetus\nBAT 3: ENE audit \nBAT 7: systems \napproach\nEnergy and  related BAT \nfrom vertical BREFS\n4.2.2 to 4.2.6  ENE BAT at installation level\n4.2.1 ENE BAT at installation level \n4.3 ENE BAT at system process or \nactivity level\nDoes the EMS or another \nsystem cover the relevant \nissues for Energy \nEfficiency Management?\nFigure 4.1: Relationships between BAT for Energy efficiency",
+      "page": 303,
+      "section_references": [
+        "figure 4.1"
+      ],
+      "extraction_date": "2025-05-30T07:42:47.696262",
+      "complete_text": "a and techniques in other vertical \nBREFs  for associated activities such as: \nLCP for combustion and steam\nWI for on-site incinerator\nWT: e.g. preparation of wastes as fuels\nBAT 1(g) review of ENEMS\nBAT 12: Maintaining impetus\nBAT 3: ENE audit \nBAT 7: systems \napproach\nEnergy and  related BAT \nfrom vertical BREFS\n4.2.2 to 4.2.6  ENE BAT at installation level\n4.2.1 ENE BAT at installation level \n4.3 ENE BAT at system process or \nactivity level\nDoes the EMS or another \nsystem cover the relevant \nissues for Energy \nEfficiency Management?\nFigure 4.1: Relationships between BAT for Energy efficiency\n\n--- REFERENCED FIGURE 4.1 ---\n.............................................................................................. 256 \nFigure 4.1: Relationships between BAT for Energy efficiency ............................................................... 272 \nFigure 5.1: Working principle for regenerative burners ........................................................................... 297 \nFigure 5.2: The net heat output results according to test furnaces of both conventional and HiTAC burners\n ........................................................................................................................................... 298 \nFigure 5.3: Flameless combustion conditions .......................................................................................... 299 \nFigure 7.1: Temperature-entropy diagram ............................................................................................... 336 \nFigure 7.2: Steam throttling process......................................................................................................... 339 \nFigure 7.3: T-S and h-S diagrams for the steam throttli"
+    },
+    {
+      "bref_id": "ENE",
+      "bat_number": 13,
+      "bat_id": "ENE-BAT-13",
+      "title": "training, awareness and competence",
+      "raw_text": "ise energy\n     recovery\nBAT 10: ENE Design (EED) including developing \nor selecting  ENE technologies\nBAT 11:  seek ENE by process integration\nBAT 1(d): Procedures\n1) structure and responsibility\n2) BAT 13: training, awareness and competence\n3) communication\n4) employee involvement\n5) documentation\n6) BAT 14: efficient control of processes\n7) BAT 15: maintenance\n8) emergency preparedness and response\n9) safeguarding compliance with energy efficiency-\nrelated legislation and agreements\nBAT 1(f) checking performance\n1) BAT 16: monitoring and measurement\n2) corrective and preventive action\n3) maintenance of records\n4) BAT 3 and 4: independent or internal auditing\nData and techniques in other vertical \nBREFs  for associated activities",
+      "page": 303,
+      "section_references": [],
+      "extraction_date": "2025-05-30T07:42:47.696162",
+      "complete_text": "ise energy\n     recovery\nBAT 10: ENE Design (EED) including developing \nor selecting  ENE technologies\nBAT 11:  seek ENE by process integration\nBAT 1(d): Procedures\n1) structure and responsibility\n2) BAT 13: training, awareness and competence\n3) communication\n4) employee involvement\n5) documentation\n6) BAT 14: efficient control of processes\n7) BAT 15: maintenance\n8) emergency preparedness and response\n9) safeguarding compliance with energy efficiency-\nrelated legislation and agreements\nBAT 1(f) checking performance\n1) BAT 16: monitoring and measurement\n2) corrective and preventive action\n3) maintenance of records\n4) BAT 3 and 4: independent or internal auditing\nData and techniques in other vertical \nBREFs  for associated activities"
+    },
+    {
+      "bref_id": "ENE",
+      "bat_number": 14,
+      "bat_id": "ENE-BAT-14",
+      "title": "efficient control of processes",
+      "raw_text": "AT 11:  seek ENE by process integration\nBAT 1(d): Procedures\n1) structure and responsibility\n2) BAT 13: training, awareness and competence\n3) communication\n4) employee involvement\n5) documentation\n6) BAT 14: efficient control of processes\n7) BAT 15: maintenance\n8) emergency preparedness and response\n9) safeguarding compliance with energy efficiency-\nrelated legislation and agreements\nBAT 1(f) checking performance\n1) BAT 16: monitoring and measurement\n2) corrective and preventive action\n3) maintenance of records\n4) BAT 3 and 4: independent or internal auditing\nData and techniques in other vertical \nBREFs  for associated activities such as: \nLCP for combustion and steam\nWI for on-site incinerator\nWT: e.g. preparation of wastes as",
+      "page": 303,
+      "section_references": [],
+      "extraction_date": "2025-05-30T07:42:47.696182",
+      "complete_text": "AT 11:  seek ENE by process integration\nBAT 1(d): Procedures\n1) structure and responsibility\n2) BAT 13: training, awareness and competence\n3) communication\n4) employee involvement\n5) documentation\n6) BAT 14: efficient control of processes\n7) BAT 15: maintenance\n8) emergency preparedness and response\n9) safeguarding compliance with energy efficiency-\nrelated legislation and agreements\nBAT 1(f) checking performance\n1) BAT 16: monitoring and measurement\n2) corrective and preventive action\n3) maintenance of records\n4) BAT 3 and 4: independent or internal auditing\nData and techniques in other vertical \nBREFs  for associated activities such as: \nLCP for combustion and steam\nWI for on-site incinerator\nWT: e.g. preparation of wastes as"
+    },
+    {
+      "bref_id": "ENE",
+      "bat_number": 15,
+      "bat_id": "ENE-BAT-15",
+      "title": "maintenance",
+      "raw_text": "T 1(d): Procedures\n1) structure and responsibility\n2) BAT 13: training, awareness and competence\n3) communication\n4) employee involvement\n5) documentation\n6) BAT 14: efficient control of processes\n7) BAT 15: maintenance\n8) emergency preparedness and response\n9) safeguarding compliance with energy efficiency-\nrelated legislation and agreements\nBAT 1(f) checking performance\n1) BAT 16: monitoring and measurement\n2) corrective and preventive action\n3) maintenance of records\n4) BAT 3 and 4: independent or internal auditing\nData and techniques in other vertical \nBREFs  for associated activities such as: \nLCP for combustion and steam\nWI for on-site incinerator\nWT: e.g. preparation of wastes as fuels\nBAT 1(g) review o",
+      "page": 303,
+      "section_references": [],
+      "extraction_date": "2025-05-30T07:42:47.696208",
+      "complete_text": "T 1(d): Procedures\n1) structure and responsibility\n2) BAT 13: training, awareness and competence\n3) communication\n4) employee involvement\n5) documentation\n6) BAT 14: efficient control of processes\n7) BAT 15: maintenance\n8) emergency preparedness and response\n9) safeguarding compliance with energy efficiency-\nrelated legislation and agreements\nBAT 1(f) checking performance\n1) BAT 16: monitoring and measurement\n2) corrective and preventive action\n3) maintenance of records\n4) BAT 3 and 4: independent or internal auditing\nData and techniques in other vertical \nBREFs  for associated activities such as: \nLCP for combustion and steam\nWI for on-site incinerator\nWT: e.g. preparation of wastes as fuels\nBAT 1(g) review o"
+    },
+    {
+      "bref_id": "ENE",
+      "bat_number": 16,
+      "bat_id": "ENE-BAT-16",
+      "title": "monitoring and measurement",
+      "raw_text": "ntrol of processes\n7) BAT 15: maintenance\n8) emergency preparedness and response\n9) safeguarding compliance with energy efficiency-\nrelated legislation and agreements\nBAT 1(f) checking performance\n1) BAT 16: monitoring and measurement\n2) corrective and preventive action\n3) maintenance of records\n4) BAT 3 and 4: independent or internal auditing\nData and techniques in other vertical \nBREFs  for associated activities such as: \nLCP for combustion and steam\nWI for on-site incinerator\nWT: e.g. preparation of wastes as fuels\nBAT 1(g) review of ENEMS\nBAT 12: Maintaining impetus\nBAT 3: ENE audit \nBAT 7: systems \napproach\nEnergy and  related BAT \nfrom vertical BREFS\n4.2.2 to 4.2.6  ENE BAT at installation level\n4.2.1 ENE BAT at instal",
+      "page": 303,
+      "section_references": [],
+      "extraction_date": "2025-05-30T07:42:47.696235",
+      "complete_text": "ntrol of processes\n7) BAT 15: maintenance\n8) emergency preparedness and response\n9) safeguarding compliance with energy efficiency-\nrelated legislation and agreements\nBAT 1(f) checking performance\n1) BAT 16: monitoring and measurement\n2) corrective and preventive action\n3) maintenance of records\n4) BAT 3 and 4: independent or internal auditing\nData and techniques in other vertical \nBREFs  for associated activities such as: \nLCP for combustion and steam\nWI for on-site incinerator\nWT: e.g. preparation of wastes as fuels\nBAT 1(g) review of ENEMS\nBAT 12: Maintaining impetus\nBAT 3: ENE audit \nBAT 7: systems \napproach\nEnergy and  related BAT \nfrom vertical BREFS\n4.2.2 to 4.2.6  ENE BAT at installation level\n4.2.1 ENE BAT at instal"
+    },
+    {
+      "bref_id": "ENE",
+      "bat_number": 17,
+      "bat_id": "ENE-BAT-17",
+      "title": "4.3.1  Combustion",
+      "raw_text": "ing cogeneration)\nBAT 7: take a systems approach\nBAT 11: seek ENE by process integration\nBAT 1(e): Benchmarking and comparisons\nBAT 8: establish ENE indicators\nBAT 9: carry out systematic comparisons\nBAT 17: 4.3.1  Combustion \nBAT 18: 4.3.2  Steam systems\nBAT 19: 4.3.3  Heat recovery \nBAT 20: 4.3.4  Cogeneration \nBAT 21, 22, and 23: \n4.3.5  Electric power supply \nBAT 24:  4.3.6  Electric-motor-driven\nsubsystems \nBAT 25: 4.3.7  Compressed air systems\nBAT 26: 4.3.8  Pumping systems \nBAT 27: 4.3.9 HVAC (heating, \nventilation, air conditioning)\nBAT 28: 4.3.10 Lighting systems\nBAT 29: 4.3.11  Drying and separation \nBAT1(k): development of ENE technologies\nBAT 7: take a systems approach to ENE\nBAT 6: identify opportunities",
+      "page": 303,
+      "section_references": [],
+      "extraction_date": "2025-05-30T07:42:47.695863",
+      "complete_text": "ing cogeneration)\nBAT 7: take a systems approach\nBAT 11: seek ENE by process integration\nBAT 1(e): Benchmarking and comparisons\nBAT 8: establish ENE indicators\nBAT 9: carry out systematic comparisons\nBAT 17: 4.3.1  Combustion \nBAT 18: 4.3.2  Steam systems\nBAT 19: 4.3.3  Heat recovery \nBAT 20: 4.3.4  Cogeneration \nBAT 21, 22, and 23: \n4.3.5  Electric power supply \nBAT 24:  4.3.6  Electric-motor-driven\nsubsystems \nBAT 25: 4.3.7  Compressed air systems\nBAT 26: 4.3.8  Pumping systems \nBAT 27: 4.3.9 HVAC (heating, \nventilation, air conditioning)\nBAT 28: 4.3.10 Lighting systems\nBAT 29: 4.3.11  Drying and separation \nBAT1(k): development of ENE technologies\nBAT 7: take a systems approach to ENE\nBAT 6: identify opportunities"
+    },
+    {
+      "bref_id": "ENE",
+      "bat_number": 18,
+      "bat_id": "ENE-BAT-18",
+      "title": "4.3.2  Steam systems",
+      "raw_text": "ke a systems approach\nBAT 11: seek ENE by process integration\nBAT 1(e): Benchmarking and comparisons\nBAT 8: establish ENE indicators\nBAT 9: carry out systematic comparisons\nBAT 17: 4.3.1  Combustion \nBAT 18: 4.3.2  Steam systems\nBAT 19: 4.3.3  Heat recovery \nBAT 20: 4.3.4  Cogeneration \nBAT 21, 22, and 23: \n4.3.5  Electric power supply \nBAT 24:  4.3.6  Electric-motor-driven\nsubsystems \nBAT 25: 4.3.7  Compressed air systems\nBAT 26: 4.3.8  Pumping systems \nBAT 27: 4.3.9 HVAC (heating, \nventilation, air conditioning)\nBAT 28: 4.3.10 Lighting systems\nBAT 29: 4.3.11  Drying and separation \nBAT1(k): development of ENE technologies\nBAT 7: take a systems approach to ENE\nBAT 6: identify opportunities to optimise energy\n     reco",
+      "page": 303,
+      "section_references": [],
+      "extraction_date": "2025-05-30T07:42:47.695882",
+      "complete_text": "ke a systems approach\nBAT 11: seek ENE by process integration\nBAT 1(e): Benchmarking and comparisons\nBAT 8: establish ENE indicators\nBAT 9: carry out systematic comparisons\nBAT 17: 4.3.1  Combustion \nBAT 18: 4.3.2  Steam systems\nBAT 19: 4.3.3  Heat recovery \nBAT 20: 4.3.4  Cogeneration \nBAT 21, 22, and 23: \n4.3.5  Electric power supply \nBAT 24:  4.3.6  Electric-motor-driven\nsubsystems \nBAT 25: 4.3.7  Compressed air systems\nBAT 26: 4.3.8  Pumping systems \nBAT 27: 4.3.9 HVAC (heating, \nventilation, air conditioning)\nBAT 28: 4.3.10 Lighting systems\nBAT 29: 4.3.11  Drying and separation \nBAT1(k): development of ENE technologies\nBAT 7: take a systems approach to ENE\nBAT 6: identify opportunities to optimise energy\n     reco"
+    },
+    {
+      "bref_id": "ENE",
+      "bat_number": 19,
+      "bat_id": "ENE-BAT-19",
+      "title": "4.3.3  Heat recovery",
+      "raw_text": "seek ENE by process integration\nBAT 1(e): Benchmarking and comparisons\nBAT 8: establish ENE indicators\nBAT 9: carry out systematic comparisons\nBAT 17: 4.3.1  Combustion \nBAT 18: 4.3.2  Steam systems\nBAT 19: 4.3.3  Heat recovery \nBAT 20: 4.3.4  Cogeneration \nBAT 21, 22, and 23: \n4.3.5  Electric power supply \nBAT 24:  4.3.6  Electric-motor-driven\nsubsystems \nBAT 25: 4.3.7  Compressed air systems\nBAT 26: 4.3.8  Pumping systems \nBAT 27: 4.3.9 HVAC (heating, \nventilation, air conditioning)\nBAT 28: 4.3.10 Lighting systems\nBAT 29: 4.3.11  Drying and separation \nBAT1(k): development of ENE technologies\nBAT 7: take a systems approach to ENE\nBAT 6: identify opportunities to optimise energy\n     recovery\nBAT 10: ENE Design (EED)",
+      "page": 303,
+      "section_references": [],
+      "extraction_date": "2025-05-30T07:42:47.695901",
+      "complete_text": "seek ENE by process integration\nBAT 1(e): Benchmarking and comparisons\nBAT 8: establish ENE indicators\nBAT 9: carry out systematic comparisons\nBAT 17: 4.3.1  Combustion \nBAT 18: 4.3.2  Steam systems\nBAT 19: 4.3.3  Heat recovery \nBAT 20: 4.3.4  Cogeneration \nBAT 21, 22, and 23: \n4.3.5  Electric power supply \nBAT 24:  4.3.6  Electric-motor-driven\nsubsystems \nBAT 25: 4.3.7  Compressed air systems\nBAT 26: 4.3.8  Pumping systems \nBAT 27: 4.3.9 HVAC (heating, \nventilation, air conditioning)\nBAT 28: 4.3.10 Lighting systems\nBAT 29: 4.3.11  Drying and separation \nBAT1(k): development of ENE technologies\nBAT 7: take a systems approach to ENE\nBAT 6: identify opportunities to optimise energy\n     recovery\nBAT 10: ENE Design (EED)"
+    },
+    {
+      "bref_id": "ENE",
+      "bat_number": 20,
+      "bat_id": "ENE-BAT-20",
+      "title": "4.3.4  Cogeneration",
+      "raw_text": "on\nBAT 1(e): Benchmarking and comparisons\nBAT 8: establish ENE indicators\nBAT 9: carry out systematic comparisons\nBAT 17: 4.3.1  Combustion \nBAT 18: 4.3.2  Steam systems\nBAT 19: 4.3.3  Heat recovery \nBAT 20: 4.3.4  Cogeneration \nBAT 21, 22, and 23: \n4.3.5  Electric power supply \nBAT 24:  4.3.6  Electric-motor-driven\nsubsystems \nBAT 25: 4.3.7  Compressed air systems\nBAT 26: 4.3.8  Pumping systems \nBAT 27: 4.3.9 HVAC (heating, \nventilation, air conditioning)\nBAT 28: 4.3.10 Lighting systems\nBAT 29: 4.3.11  Drying and separation \nBAT1(k): development of ENE technologies\nBAT 7: take a systems approach to ENE\nBAT 6: identify opportunities to optimise energy\n     recovery\nBAT 10: ENE Design (EED) including developing \nor sele",
+      "page": 303,
+      "section_references": [],
+      "extraction_date": "2025-05-30T07:42:47.695921",
+      "complete_text": "on\nBAT 1(e): Benchmarking and comparisons\nBAT 8: establish ENE indicators\nBAT 9: carry out systematic comparisons\nBAT 17: 4.3.1  Combustion \nBAT 18: 4.3.2  Steam systems\nBAT 19: 4.3.3  Heat recovery \nBAT 20: 4.3.4  Cogeneration \nBAT 21, 22, and 23: \n4.3.5  Electric power supply \nBAT 24:  4.3.6  Electric-motor-driven\nsubsystems \nBAT 25: 4.3.7  Compressed air systems\nBAT 26: 4.3.8  Pumping systems \nBAT 27: 4.3.9 HVAC (heating, \nventilation, air conditioning)\nBAT 28: 4.3.10 Lighting systems\nBAT 29: 4.3.11  Drying and separation \nBAT1(k): development of ENE technologies\nBAT 7: take a systems approach to ENE\nBAT 6: identify opportunities to optimise energy\n     recovery\nBAT 10: ENE Design (EED) including developing \nor sele"
+    },
+    {
+      "bref_id": "ENE",
+      "bat_number": 24,
+      "bat_id": "ENE-BAT-24",
+      "title": "4.3.6  Electric-motor-driven",
+      "raw_text": "carry out systematic comparisons\nBAT 17: 4.3.1  Combustion \nBAT 18: 4.3.2  Steam systems\nBAT 19: 4.3.3  Heat recovery \nBAT 20: 4.3.4  Cogeneration \nBAT 21, 22, and 23: \n4.3.5  Electric power supply \nBAT 24:  4.3.6  Electric-motor-driven\nsubsystems \nBAT 25: 4.3.7  Compressed air systems\nBAT 26: 4.3.8  Pumping systems \nBAT 27: 4.3.9 HVAC (heating, \nventilation, air conditioning)\nBAT 28: 4.3.10 Lighting systems\nBAT 29: 4.3.11  Drying and separation \nBAT1(k): development of ENE technologies\nBAT 7: take a systems approach to ENE\nBAT 6: identify opportunities to optimise energy\n     recovery\nBAT 10: ENE Design (EED) including developing \nor selecting  ENE technologies\nBAT 11:  seek ENE by process integration\nBAT 1(d): Procedures\n1)",
+      "page": 303,
+      "section_references": [],
+      "extraction_date": "2025-05-30T07:42:47.695943",
+      "complete_text": "carry out systematic comparisons\nBAT 17: 4.3.1  Combustion \nBAT 18: 4.3.2  Steam systems\nBAT 19: 4.3.3  Heat recovery \nBAT 20: 4.3.4  Cogeneration \nBAT 21, 22, and 23: \n4.3.5  Electric power supply \nBAT 24:  4.3.6  Electric-motor-driven\nsubsystems \nBAT 25: 4.3.7  Compressed air systems\nBAT 26: 4.3.8  Pumping systems \nBAT 27: 4.3.9 HVAC (heating, \nventilation, air conditioning)\nBAT 28: 4.3.10 Lighting systems\nBAT 29: 4.3.11  Drying and separation \nBAT1(k): development of ENE technologies\nBAT 7: take a systems approach to ENE\nBAT 6: identify opportunities to optimise energy\n     recovery\nBAT 10: ENE Design (EED) including developing \nor selecting  ENE technologies\nBAT 11:  seek ENE by process integration\nBAT 1(d): Procedures\n1)"
+    },
+    {
+      "bref_id": "ENE",
+      "bat_number": 25,
+      "bat_id": "ENE-BAT-25",
+      "title": "4.3.7  Compressed air systems",
+      "raw_text": "ombustion \nBAT 18: 4.3.2  Steam systems\nBAT 19: 4.3.3  Heat recovery \nBAT 20: 4.3.4  Cogeneration \nBAT 21, 22, and 23: \n4.3.5  Electric power supply \nBAT 24:  4.3.6  Electric-motor-driven\nsubsystems \nBAT 25: 4.3.7  Compressed air systems\nBAT 26: 4.3.8  Pumping systems \nBAT 27: 4.3.9 HVAC (heating, \nventilation, air conditioning)\nBAT 28: 4.3.10 Lighting systems\nBAT 29: 4.3.11  Drying and separation \nBAT1(k): development of ENE technologies\nBAT 7: take a systems approach to ENE\nBAT 6: identify opportunities to optimise energy\n     recovery\nBAT 10: ENE Design (EED) including developing \nor selecting  ENE technologies\nBAT 11:  seek ENE by process integration\nBAT 1(d): Procedures\n1) structure and responsibility\n2) BAT 13: training,",
+      "page": 303,
+      "section_references": [],
+      "extraction_date": "2025-05-30T07:42:47.695969",
+      "complete_text": "ombustion \nBAT 18: 4.3.2  Steam systems\nBAT 19: 4.3.3  Heat recovery \nBAT 20: 4.3.4  Cogeneration \nBAT 21, 22, and 23: \n4.3.5  Electric power supply \nBAT 24:  4.3.6  Electric-motor-driven\nsubsystems \nBAT 25: 4.3.7  Compressed air systems\nBAT 26: 4.3.8  Pumping systems \nBAT 27: 4.3.9 HVAC (heating, \nventilation, air conditioning)\nBAT 28: 4.3.10 Lighting systems\nBAT 29: 4.3.11  Drying and separation \nBAT1(k): development of ENE technologies\nBAT 7: take a systems approach to ENE\nBAT 6: identify opportunities to optimise energy\n     recovery\nBAT 10: ENE Design (EED) including developing \nor selecting  ENE technologies\nBAT 11:  seek ENE by process integration\nBAT 1(d): Procedures\n1) structure and responsibility\n2) BAT 13: training,"
+    },
+    {
+      "bref_id": "ENE",
+      "bat_number": 26,
+      "bat_id": "ENE-BAT-26",
+      "title": "4.3.8  Pumping systems",
+      "raw_text": "s\nBAT 19: 4.3.3  Heat recovery \nBAT 20: 4.3.4  Cogeneration \nBAT 21, 22, and 23: \n4.3.5  Electric power supply \nBAT 24:  4.3.6  Electric-motor-driven\nsubsystems \nBAT 25: 4.3.7  Compressed air systems\nBAT 26: 4.3.8  Pumping systems \nBAT 27: 4.3.9 HVAC (heating, \nventilation, air conditioning)\nBAT 28: 4.3.10 Lighting systems\nBAT 29: 4.3.11  Drying and separation \nBAT1(k): development of ENE technologies\nBAT 7: take a systems approach to ENE\nBAT 6: identify opportunities to optimise energy\n     recovery\nBAT 10: ENE Design (EED) including developing \nor selecting  ENE technologies\nBAT 11:  seek ENE by process integration\nBAT 1(d): Procedures\n1) structure and responsibility\n2) BAT 13: training, awareness and competence\n3) comm",
+      "page": 303,
+      "section_references": [],
+      "extraction_date": "2025-05-30T07:42:47.695996",
+      "complete_text": "s\nBAT 19: 4.3.3  Heat recovery \nBAT 20: 4.3.4  Cogeneration \nBAT 21, 22, and 23: \n4.3.5  Electric power supply \nBAT 24:  4.3.6  Electric-motor-driven\nsubsystems \nBAT 25: 4.3.7  Compressed air systems\nBAT 26: 4.3.8  Pumping systems \nBAT 27: 4.3.9 HVAC (heating, \nventilation, air conditioning)\nBAT 28: 4.3.10 Lighting systems\nBAT 29: 4.3.11  Drying and separation \nBAT1(k): development of ENE technologies\nBAT 7: take a systems approach to ENE\nBAT 6: identify opportunities to optimise energy\n     recovery\nBAT 10: ENE Design (EED) including developing \nor selecting  ENE technologies\nBAT 11:  seek ENE by process integration\nBAT 1(d): Procedures\n1) structure and responsibility\n2) BAT 13: training, awareness and competence\n3) comm"
+    },
+    {
+      "bref_id": "ENE",
+      "bat_number": 27,
+      "bat_id": "ENE-BAT-27",
+      "title": "4.3.9 HVAC (heating,",
+      "raw_text": "BAT 20: 4.3.4  Cogeneration \nBAT 21, 22, and 23: \n4.3.5  Electric power supply \nBAT 24:  4.3.6  Electric-motor-driven\nsubsystems \nBAT 25: 4.3.7  Compressed air systems\nBAT 26: 4.3.8  Pumping systems \nBAT 27: 4.3.9 HVAC (heating, \nventilation, air conditioning)\nBAT 28: 4.3.10 Lighting systems\nBAT 29: 4.3.11  Drying and separation \nBAT1(k): development of ENE technologies\nBAT 7: take a systems approach to ENE\nBAT 6: identify opportunities to optimise energy\n     recovery\nBAT 10: ENE Design (EED) including developing \nor selecting  ENE technologies\nBAT 11:  seek ENE by process integration\nBAT 1(d): Procedures\n1) structure and responsibility\n2) BAT 13: training, awareness and competence\n3) communication\n4) employee involvem",
+      "page": 303,
+      "section_references": [],
+      "extraction_date": "2025-05-30T07:42:47.696016",
+      "complete_text": "BAT 20: 4.3.4  Cogeneration \nBAT 21, 22, and 23: \n4.3.5  Electric power supply \nBAT 24:  4.3.6  Electric-motor-driven\nsubsystems \nBAT 25: 4.3.7  Compressed air systems\nBAT 26: 4.3.8  Pumping systems \nBAT 27: 4.3.9 HVAC (heating, \nventilation, air conditioning)\nBAT 28: 4.3.10 Lighting systems\nBAT 29: 4.3.11  Drying and separation \nBAT1(k): development of ENE technologies\nBAT 7: take a systems approach to ENE\nBAT 6: identify opportunities to optimise energy\n     recovery\nBAT 10: ENE Design (EED) including developing \nor selecting  ENE technologies\nBAT 11:  seek ENE by process integration\nBAT 1(d): Procedures\n1) structure and responsibility\n2) BAT 13: training, awareness and competence\n3) communication\n4) employee involvem"
+    },
+    {
+      "bref_id": "ENE",
+      "bat_number": 28,
+      "bat_id": "ENE-BAT-28",
+      "title": "4.3.10 Lighting systems",
+      "raw_text": "tric power supply \nBAT 24:  4.3.6  Electric-motor-driven\nsubsystems \nBAT 25: 4.3.7  Compressed air systems\nBAT 26: 4.3.8  Pumping systems \nBAT 27: 4.3.9 HVAC (heating, \nventilation, air conditioning)\nBAT 28: 4.3.10 Lighting systems\nBAT 29: 4.3.11  Drying and separation \nBAT1(k): development of ENE technologies\nBAT 7: take a systems approach to ENE\nBAT 6: identify opportunities to optimise energy\n     recovery\nBAT 10: ENE Design (EED) including developing \nor selecting  ENE technologies\nBAT 11:  seek ENE by process integration\nBAT 1(d): Procedures\n1) structure and responsibility\n2) BAT 13: training, awareness and competence\n3) communication\n4) employee involvement\n5) documentation\n6) BAT 14: efficient control of processes",
+      "page": 303,
+      "section_references": [],
+      "extraction_date": "2025-05-30T07:42:47.696036",
+      "complete_text": "tric power supply \nBAT 24:  4.3.6  Electric-motor-driven\nsubsystems \nBAT 25: 4.3.7  Compressed air systems\nBAT 26: 4.3.8  Pumping systems \nBAT 27: 4.3.9 HVAC (heating, \nventilation, air conditioning)\nBAT 28: 4.3.10 Lighting systems\nBAT 29: 4.3.11  Drying and separation \nBAT1(k): development of ENE technologies\nBAT 7: take a systems approach to ENE\nBAT 6: identify opportunities to optimise energy\n     recovery\nBAT 10: ENE Design (EED) including developing \nor selecting  ENE technologies\nBAT 11:  seek ENE by process integration\nBAT 1(d): Procedures\n1) structure and responsibility\n2) BAT 13: training, awareness and competence\n3) communication\n4) employee involvement\n5) documentation\n6) BAT 14: efficient control of processes"
+    },
+    {
+      "bref_id": "ENE",
+      "bat_number": 29,
+      "bat_id": "ENE-BAT-29",
+      "title": "4.3.11  Drying and separation",
+      "raw_text": "6  Electric-motor-driven\nsubsystems \nBAT 25: 4.3.7  Compressed air systems\nBAT 26: 4.3.8  Pumping systems \nBAT 27: 4.3.9 HVAC (heating, \nventilation, air conditioning)\nBAT 28: 4.3.10 Lighting systems\nBAT 29: 4.3.11  Drying and separation \nBAT1(k): development of ENE technologies\nBAT 7: take a systems approach to ENE\nBAT 6: identify opportunities to optimise energy\n     recovery\nBAT 10: ENE Design (EED) including developing \nor selecting  ENE technologies\nBAT 11:  seek ENE by process integration\nBAT 1(d): Procedures\n1) structure and responsibility\n2) BAT 13: training, awareness and competence\n3) communication\n4) employee involvement\n5) documentation\n6) BAT 14: efficient control of processes\n7) BAT 15: maintenance\n8) emergency pre",
+      "page": 303,
+      "section_references": [],
+      "extraction_date": "2025-05-30T07:42:47.696055",
+      "complete_text": "6  Electric-motor-driven\nsubsystems \nBAT 25: 4.3.7  Compressed air systems\nBAT 26: 4.3.8  Pumping systems \nBAT 27: 4.3.9 HVAC (heating, \nventilation, air conditioning)\nBAT 28: 4.3.10 Lighting systems\nBAT 29: 4.3.11  Drying and separation \nBAT1(k): development of ENE technologies\nBAT 7: take a systems approach to ENE\nBAT 6: identify opportunities to optimise energy\n     recovery\nBAT 10: ENE Design (EED) including developing \nor selecting  ENE technologies\nBAT 11:  seek ENE by process integration\nBAT 1(d): Procedures\n1) structure and responsibility\n2) BAT 13: training, awareness and competence\n3) communication\n4) employee involvement\n5) documentation\n6) BAT 14: efficient control of processes\n7) BAT 15: maintenance\n8) emergency pre"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "bat_number": 4,
+    "bat_id": "BAT 4",
+    "title": "Storage of liquid and liquefied gas",
+    "full_text": "BAT \n \n4.1. \nStorage of liquid and liquefied gas \n \nIn Chapter 3 most of the different storage modes for liquids and liquefied gases are described \nand the potential emission sources of each storage type are identified and are given an emission \nscore. Scoring the emission sources is a simple and reliable means for identifying the most \nimportant emission sources, although, it should be noted that the scores have a relative value \nand should only be considered for each storage mode in isolation. The sources with an emission \nscore of 3 and more are addressed here in Chapter 4. \n \nECM scorecards (Emission Control Measures) have been prepared for all storage modes and are \nshown in Annex 8.9 – ECM Scorecards for storing liquid and liquefied gas. Each scorecard \nprovides information on typical ECM for gaseous and/or liquid emissions and/or waste. The \ncards also show the emission score of each potential emission source. \n \nAnnex 8.9 shows that ECM for fourteen types of storage modes for operational emissions are to \nbe discussed and assessed. This chapter contains an overview of the various ECM that might be \napplied to all or some of the storage modes. Each discussed ECM is – where possible – \nassessed by: \n \n•\ndescription \n•\nachieved environmental benefit \n•\noperability \n•\napplicability \n•\nsafety aspects \n•\nenergy/waste/cross-media, and \n•\neconomics. \n \n4.1.1. \nECM assessment methodology for the storage of liquid and \nliquefied gas \n \nDescription: TETSP (Technical European Tank Storage Platform) has defined a practical \nmethodology for assessing the ECM described here in Chapter 4 in order to define which ECM, \nor combination of ECM perform best in the storage of liquid and liquefied gas in a specific \nsituation. This methodology is based on the principles of a risk-based approach for selecting \nand qualifying emission points (see Chapter 3), followed by the definition of ECM. TETSP \ndeveloped this tool, because in their view, it is recognised within the BREF that almost all tanks \nare different due to their design, their location and the product stored, etc. and it would, \ntherefore, be virtually impossible to define a generic BAT for a certain type of tank. \n \nECM can denote technical measures and/or operational measures and/or management measures. \nThese measures do not focus just on end-of-pipe techniques with their achievable emissions and \ncosts, but also cover measures such as good operating procedures, adequate training and sound \nmaintenance procedures.",
+    "text_length": 2505,
+    "page": 139,
+    "document_code": "EFS",
+    "extraction_method": "Comprehensive extraction (pattern_6)",
+    "pattern_type": "pattern_6",
+    "source_url": "https://eippcb.jrc.ec.europa.eu/sites/default/files/2022-03/efs_bref_0706_0.pdf",
+    "language": "English",
+    "content_indicators": {
+      "has_tables": false,
+      "has_techniques": true,
+      "has_applicability": true,
+      "has_monitoring": false,
+      "has_limits": true,
+      "word_count": 392
+    }
+  }
+]

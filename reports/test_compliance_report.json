@@ -1,0 +1,60 @@
+{
+  "permit_id": "Test_Livestock_Permit",
+  "rie_compliance": {
+    "requires_rie_compliance": true,
+    "applicable_activities": [
+      {
+        "permit_activity": "Dairy cattle farm expansion with 150 cows",
+        "rie_category": "6. Other activities",
+        "rie_description": "Installations for the intensive rearing of poultry or pigs",
+        "threshold_values": "More than 750 places for sows, 2000 production pigs, or 40000 poultry",
+        "capacity_check_needed": true,
+        "capacity_info": "150 dairy cows"
+      }
+    ],
+    "total_activities_checked": 1
+  },
+  "bref_applicability": [
+    {
+      "bref_id": "FDM",
+      "bref_title": "Food, Drink and Milk Industries",
+      "applicability": "Likely Applicable",
+      "justification": "Dairy farming and milk production falls under food processing industry",
+      "confidence": "High"
+    },
+    {
+      "bref_id": "IRPP",
+      "bref_title": "Intensive Rearing of Poultry or Pigs",
+      "applicability": "Not Applicable",
+      "justification": "Dairy cattle is not covered by poultry/pig BREF",
+      "confidence": "High"
+    }
+  ],
+  "bat_compliance": [
+    {
+      "bat_id": "FDM_BAT_1",
+      "bat_title": "Energy efficiency measures",
+      "compliance_status": "Requires Review",
+      "detailed_findings": "Permit mentions energy considerations but lacks specific efficiency measures",
+      "source_bref_id": "FDM"
+    },
+    {
+      "bat_id": "FDM_BAT_2",
+      "bat_title": "Water management",
+      "compliance_status": "Potentially Compliant",
+      "detailed_findings": "Water usage mentioned in permit but detailed management plan not specified",
+      "source_bref_id": "FDM"
+    }
+  ],
+  "overall_assessment": "Permit requires review for complete BAT compliance",
+  "recommendations": [
+    "Verify dairy farm capacity against RIE thresholds",
+    "Review 2 BAT conclusions that require detailed analysis",
+    "Ensure compliance with Food, Drink and Milk Industries BREF"
+  ],
+  "legal_issues": [
+    "No decision document found in permit file",
+    "Incomplete technical documentation for BAT verification"
+  ],
+  "timestamp": "2025-05-29T20:02:55.552850"
+}

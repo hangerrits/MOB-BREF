@@ -1,0 +1,140 @@
+/* /home/ubuntu/bat_rie_checker_app/src/static/css/style.css */
+body {
+    font-family: sans-serif;
+    margin: 0;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2rem;
+}
+
+main {
+    padding: 20px;
+    max-width: 900px;
+    margin: 20px auto;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+section {
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+h2 {
+    color: #333;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+    margin-top: 0;
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+input[type="file"] {
+    display: block;
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: calc(100% - 22px); /* Account for padding and border */
+}
+
+button[type="submit"] {
+    background: #5cb85c;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    font-size: 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button[type="submit"]:hover {
+    background: #4cae4c;
+}
+
+#status-messages {
+    margin-top: 15px;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+#status-messages .success {
+    background-color: #dff0d8;
+    border: 1px solid #d6e9c6;
+    color: #3c763d;
+}
+
+#status-messages .error {
+    background-color: #f2dede;
+    border: 1px solid #ebccd1;
+    color: #a94442;
+}
+
+#report-links a {
+    display: inline-block;
+    margin-right: 10px;
+    padding: 8px 12px;
+    background-color: #337ab7;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 0.9rem;
+}
+
+#report-links a:hover {
+    background-color: #286090;
+}
+
+pre#json-results {
+    background-color: #f9f9f9;
+    border: 1px solid #eee;
+    padding: 15px;
+    border-radius: 4px;
+    white-space: pre-wrap; /* Allows wrapping of long lines */
+    word-wrap: break-word; /* Ensures words break to prevent overflow */
+    max-height: 400px; /* Optional: if results can be very long */
+    overflow-y: auto; /* Optional: adds scrollbar if content exceeds max-height */
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #333;
+    color: #fff;
+    margin-top: 30px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 600px) {
+    header h1 {
+        font-size: 1.5rem;
+    }
+    main {
+        padding: 10px;
+        margin: 10px;
+    }
+    button[type="submit"] {
+        width: 100%;
+        padding: 12px;
+    }
+}
+

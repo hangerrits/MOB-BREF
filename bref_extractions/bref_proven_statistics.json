@@ -1,0 +1,17 @@
+{
+  "ENE": {
+    "bat_count": 29,
+    "total_chars": 57531,
+    "extraction_time": "2025-05-30T08:56:21.986580"
+  },
+  "LVIC-S": {
+    "bat_count": 1,
+    "total_chars": 165841,
+    "extraction_time": "2025-05-30T08:56:21.986587"
+  },
+  "POL": {
+    "bat_count": 18,
+    "total_chars": 8643,
+    "extraction_time": "2025-05-30T08:56:21.986589"
+  }
+}

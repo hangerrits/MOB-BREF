@@ -1,0 +1,94 @@
+=== QUICK EXTRACT FROM 230704-0 Besluit.pdf ===
+
+<!-- image -->
+
+Zaaknummer
+
+:
+
+00618806
+
+Ons Kenmerk
+
+:
+
+ODH673696
+
+Datum
+
+:
+
+04-07-2023
+
+## Beschikking
+
+## Wet natuurbescherming - Natura 2000-gebieden
+
+## Onderwerp
+
+Op 11 juni 2021 hebben wij een aanvraag om vergunning ontvangen als bedoeld in artikel 2.7, tweede lid, van de Wet natuurbescherming. De aanvraag betreft het uitbreiden van een bestaande melkrundveehouderij, gelegen aan de Laan van Oud Raadwijk 6 - 8 te Zoeterwoude.
+
+## Besluit
+
+Wij besluiten:
+
+- I. de aangevraagde vergunning te verlenen ;
+- II. de in het vervolg van dit besluit opgenomen voorschriften te verbinden aan deze vergunning;
+- III. de aanvraag en de aanvullende gegevens van 28 oktober 2021, 23 februari 2023, 2 maart 2023, 10 maart 2023 en 6 april 2023 onderdeel te laten zijn van deze vergunning;
+- IV. de volgende ambtshalve berekening onderdeel te laten zijn van deze vergunning:
+- -AERIUS berekening beoogde situatie van 14 april 2023 met kenmerk RcbxiR3ZMCwV.
+
+## Ondertekening
+
+Gedeputeerde Staten van Zuid-Holland, namens dezen,
+
+<!-- image -->
+
+ing. L. Hopman Hoofd Toetsing &amp; Vergunningverlening Milieu van de Omgevingsdienst Haaglanden
+
+## Bijlagen:
+
+- 1. AERIUS verschilberekening van de referentiesituatie en beoogde situatie, inclusief saldering van 6 april 2023 met kenmerk S3EAU3eG3wuX (ODH659322);
+- 2. AERIUS projecteffect berekening van de referentiesituatie en de beoogde situatie van 6 april 2023 met kenmerk RiZsJJkeG144 (ODH659321);
+- 3. Ambtshalve AERIUS-berekening beoogde situatie van 14 april 2023 met kenmerk RcbxiR3ZMCwV (ODH665360).
+
+## Bezoekadres
+
+Zuid-Hollandplein 1 2596 AW Den Haag
+
+## Postadres
+
+Postbus 14060 2501 GB Den Haag (070) 21 899 02 vergunningen@odh.nl www.odh.nl
+
+<!-- image -->
+
+## Rechtsmiddelen
+
+Voor de mogelijkheid rechtsmiddelen aan te wenden tegen deze beschikking wijzen wij op de desbetreffende tekst in het begeleidende schrijven.
+
+<!-- image -->
+
+## VOORSCHRIFTEN
+
+## Algemeen
+
+- 1. Wijzigingen van de activiteit waarvoor de vergunning is verleend dienen terstond schriftelijk te worden gemeld. Deze melding dient te worden ingediend bij de Omgevingsdienst Haaglanden, Afdeling Toetsing en Vergunningverlening Milieu, Postbus 14060, 2501 GB Den Haag, e-mail: vergunningen@odh.nl.
+- 2. De vergunninghouder dient:
+- a. de start van de werkzaamheden en eventuele wijzigingen gedurende de uitvoering schriftelijk te melden.
+- b. uiterlijk één week na het beëindigen van de werkzaamheden hiervan schriftelijk kennis te geven.
+
+Voorgaande meldingen dienen gericht te worden aan de afdeling Toezicht en Handhaving, Team Groen van de Omgevingsdienst Zuid-Holland Zuid, Postbus 550, 3300 AN te Dordrecht, telefoonnummer 078-7708585, emailadres meldingwnb@ozhz.nl onder vermelding van 'Natura 2000'.
+
+- 3. Op de locatie Laan van Oud Raadwijk 6 - 8  te Zoeterwoude mogen maximaal de volgende dieraantallen worden gehouden:
+- *Tijdens de realisatie van een stalsysteem dient altijd toepassing gegeven te worden aan de op dat moment meest recente versie van de BB of BWL omschrijving.
+- 4. Deze vergunning kan worden ingetrokken wanneer het project waarvoor deze vergunning is verleend niet binnen drie jaar na het onherroepelijk worden van dit besluit is gerealiseerd.
+- 5. De met deze natuurtoestemming toegestane activiteiten mogen pas uitgevoerd worden vanaf het moment dat de activiteiten aan de Voorweg 167 te Zoetermeer beëindigd zijn en het aanschrijvingsbesluit op grond van artikel 2.4 Wet natuurbescherming, gericht op het beëindigd houden van de saldogevende activiteiten van Voorweg 167 te Zoetermeer, onherroepelijk is geworden.
+- 6. Ten aanzien van de handelingen onder voorschrift 5 is de meldingsplicht zoals genoemd onder voorschriften 1 en 2 van overeenkomstige toepassing.
+
+| Emissiebron     | Diersoort en beschrijving stalsysteem*                                                                                                          | Stalsysteem (RAV-code)   |   Dieraantallen |
+|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-----------------|
+| Stal 1 (stal A) | Rundvee; melk- en kalfkoeien ouder dan 2 jaar, overige huisvestingssystemen Beweiden ten minste 720 uur in een kalenderjaar- 5% emissiereductie | A1.100 PAS-2015.08-01    |             105 |
+| Bron 2 (stal B) | Schapen; schapen ouder dan 1 jaar, inclusief lammeren tot 45 kg, overige huisvestingssystemen                                                   | B1.100                   |              45 |
+|                 | Rundvee; vrouwelijk jongvee tot 2 jaar, overige huisvestingssystemen                                                                            | A3.100                   |             125 |
+|                 | Rundvee; zoogkoeien ouder dan 2 jaar, overige huisvestingssystemen                                                                              | A2.100                   |              15 |
+| Bron 
